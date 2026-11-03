@@ -135,7 +135,7 @@ export function About() {
         <section id="edicoes" className="about-section">
           <h2>Edições</h2>
           <ul className="about-covers">
-            {volumes.map((v) => (
+            {volumes.filter((v) => v.n !== "n1").map((v) => (
               <li key={v.n}>
                 <Link href={`/volumes/${v.n}/`}>
                   {v.scans && v.cover ? <img src={v.cover} alt={`Capa da ${v.label}`} /> : <span className="issue-ph">?</span>}
