@@ -382,7 +382,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   .timeline .year { font-size: 48px; grid-row: span 2; }
   .issue { grid-template-columns: 72px 1fr; gap: 14px; padding: 12px; }
   .issue img, .issue-ph { width: 72px; }
-  .about-covers { gap: 16px; }
+  .about-covers { flex-wrap: wrap; gap: 24px 16px; } /* 42vw covers: two per row */
   /* spreads stack vertically: each one keeps its facing pages side by side, half the width each */
   .content:has(> .spreads) { padding-bottom: 140px; }
   .spreads { flex-direction: column; height: auto; overflow: visible; margin-inline: 0; padding: 0; gap: 16px; }
