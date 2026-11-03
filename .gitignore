@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+public/pagefind
+.env*
+.wrangler
+.cloudflare
+_bkp
+_print
+.DS_Store

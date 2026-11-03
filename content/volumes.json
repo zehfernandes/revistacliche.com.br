@@ -1,0 +1,688 @@
+{
+ "_notes": [
+  "The printed issues. Edit by hand, then run npm run export (people, graph, tables) and npm run build (search).",
+  "contents: one entry per piece, page = the PDF page where it starts (the printed number matches). authors and illustrators join the people graph; links land on that spread.",
+  "Page text and scans come from the PDFs: python3 -I scripts/extract_pdfs.py n1=<pdf> n2=<pdf> n3=<pdf> n4=<pdf>. Add scans + set pages when a PDF is in.",
+  "Names use the spelling already in the archive so people merge (Cuducos, Frederick van Amstel, Georgia Graichen Bueno).",
+  "N4 p. 36: the table of contents credits Thiago Pestillo Seles, the page credits Henrique Lindner; the page credit is used.",
+  "team: the coordinators from the masthead; every credited person of the issue links to them in the graph.",
+  "search: false ends the piece before it without becoming a result (tables of contents).",
+  "date: when the issue came out, for its pieces in the archive tables (the day is a convention: the 1st of the month it launched). Without it they show the year.",
+  "N3 has no PDF yet: contents without pages, and people lists the contributors of the whole issue."
+ ],
+ "volumes": [
+  {
+   "n": "n1",
+   "label": "N1",
+   "year": "2010",
+   "pages": 16,
+   "cover": null,
+   "contents": []
+  },
+  {
+   "n": "n2",
+   "label": "N2",
+   "year": "2011",
+   "date": "2011-09-01",
+   "theme": "Contracultura",
+   "pages": 48,
+   "team": [
+    "Hugo Pizaia",
+    "Zeh Fernandes",
+    "Thiago Grossmann"
+   ],
+   "scans": "/volumes/n2",
+   "cover": "/volumes/n2-cover.avif",
+   "contents": [
+    {
+     "page": 1,
+     "title": "Capa",
+     "illustrators": [
+      "Janaina Tazoniero"
+     ]
+    },
+    {
+     "page": 5,
+     "title": "Editorial"
+    },
+    {
+     "page": 6,
+     "title": "Contracultura"
+    },
+    {
+     "page": 8,
+     "title": "Cartazes poloneses",
+     "authors": [
+      "Georgia Graichen Bueno"
+     ]
+    },
+    {
+     "page": 12,
+     "title": "Design crítico",
+     "authors": [
+      "Débora Marquesi",
+      "Joana Rosella",
+      "José Fernandes",
+      "Pedro Savio"
+     ]
+    },
+    {
+     "page": 14,
+     "title": "Moda e contracultura",
+     "authors": [
+      "Carolina Gritten"
+     ]
+    },
+    {
+     "page": 16,
+     "title": "Pichação",
+     "authors": [
+      "Glauco Teixeira",
+      "Lucas Rechinel"
+     ]
+    },
+    {
+     "page": 18,
+     "title": "A ruptura tropicalista e o design",
+     "authors": [
+      "Cauhana Tafarelo de Oliveira"
+     ]
+    },
+    {
+     "page": 22,
+     "title": "Portfólio"
+    },
+    {
+     "page": 23,
+     "title": "Of Moons, Birds and Monsters",
+     "authors": [
+      "Luís Gustavo P. Costenaro"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 24,
+     "title": "Try Again",
+     "authors": [
+      "Luiz Postal"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 25,
+     "title": "Brinquedo para um mundo em desequilíbrio",
+     "authors": [
+      "Daniel Linhares",
+      "Eduardo Campos"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 27,
+     "title": "Colagens turísticas",
+     "authors": [
+      "Hugo Moura Hülle"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 28,
+     "title": "Postcards from the Future",
+     "authors": [
+      "Carlos Bauer"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 29,
+     "title": "Painel sensorial",
+     "authors": [
+      "Elaine Siegel de Lima",
+      "Daniel Ferreira Florencio"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 30,
+     "title": "Cordélia, Cordélia",
+     "authors": [
+      "Gustavo Ramos Marques"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 31,
+     "title": "Falha",
+     "authors": [
+      "Isabela Nishijima"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 32,
+     "title": "Curvi",
+     "authors": [
+      "Estevam Cezar Maia",
+      "Tarliny da Silva"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 33,
+     "title": "UF!",
+     "authors": [
+      "Varlei José Janei",
+      "Tarliny da Silva"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 34,
+     "title": "No Spoon",
+     "authors": [
+      "Ulisses Candal"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 35,
+     "title": "X-Men",
+     "authors": [
+      "Angela C. Sant Anna",
+      "Karin Teodorovicz"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 36,
+     "title": "Samba",
+     "authors": [
+      "Herico Prado Ferreira",
+      "Vanessa Eimy Koga",
+      "Larissa Bueno Otto"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 37,
+     "title": "Bari",
+     "authors": [
+      "Raphael Silveira de Lavor",
+      "Esther Michel Chen",
+      "Maycon Passos de Melo"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 38,
+     "title": "Oliver Fondue",
+     "authors": [
+      "Ana Paula Vontempski"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 40,
+     "title": "Pequenos ambientes",
+     "authors": [
+      "Ana Paula Guimarães"
+     ]
+    },
+    {
+     "page": 42,
+     "title": "Design em cena",
+     "authors": [
+      "Leonardo Prado",
+      "Yasmine Martins Kato"
+     ]
+    },
+    {
+     "page": 44,
+     "title": "Design generalista?",
+     "authors": [
+      "Eryk Gurski"
+     ]
+    }
+   ]
+  },
+  {
+   "n": "n3",
+   "label": "N3",
+   "year": "2012",
+   "theme": "Cidades do Imaginário",
+   "pages": 16,
+   "cover": "/volumes/n3-cover.avif",
+   "people": [
+    "Tiago R. Rossmann",
+    "Mariana Negreiros",
+    "Humorvítreo",
+    "Ivan Mizanzuk",
+    "André Talhari",
+    "Georgia Graichen Bueno",
+    "Julio Teodoro",
+    "Pedro Lima D’Água",
+    "Liber Paz",
+    "Marcus Pilleggi",
+    "Victor Kebbe",
+    "Lívia Weyl",
+    "Huemerson Leal",
+    "Igor Moura",
+    "Giovanni Girardi",
+    "Jairo Souza",
+    "Guilherme Kurten",
+    "Felipe Protski",
+    "Rafael Pavarotti",
+    "Stefane Correa",
+    "Évora Andrade",
+    "Bicicleta Sem Freio"
+   ],
+   "contents": [
+    {
+     "title": "Moda para um mundo de recursos escassos"
+    },
+    {
+     "title": "Asilo Arkham, de Grant Morrison e Dave McKean"
+    },
+    {
+     "title": "Design italiano dos anos 80 e o imaginário social"
+    },
+    {
+     "title": "SteamPunk, DieselPunk e CyberPunk"
+    },
+    {
+     "title": "Zumbis"
+    },
+    {
+     "title": "Robôs"
+    },
+    {
+     "title": "Contos futuristas"
+    },
+    {
+     "title": "Um mundo sem publicidade"
+    }
+   ]
+  },
+  {
+   "n": "n4",
+   "label": "N4",
+   "year": "2015",
+   "date": "2015-07-01",
+   "theme": "Vinte perguntas",
+   "pages": 76,
+   "team": [
+    "Hugo Pizaia",
+    "Zeh Fernandes",
+    "Thiago Grossmann",
+    "Raphael T. Inoue"
+   ],
+   "scans": "/volumes/n4",
+   "cover": "/volumes/n4-cover.avif",
+   "contents": [
+    {
+     "page": 1,
+     "title": "Capa",
+     "illustrators": [
+      "Estabelecimento"
+     ]
+    },
+    {
+     "page": 4,
+     "title": "Editorial",
+     "authors": [
+      "Zeh Fernandes"
+     ]
+    },
+    {
+     "page": 6,
+     "title": "Índice",
+     "search": false
+    },
+    {
+     "page": 8,
+     "title": "Apresentação"
+    },
+    {
+     "page": 10,
+     "title": "Modernismo ou pós-modernismo?",
+     "authors": [
+      "Ivan Mizanzuk"
+     ],
+     "illustrators": [
+      "Vanessa Bornemann"
+     ]
+    },
+    {
+     "page": 12,
+     "title": "Como o design pode ajudar o mundo?",
+     "authors": [
+      "Marcos Beccari"
+     ],
+     "illustrators": [
+      "Arthur Duarte"
+     ]
+    },
+    {
+     "page": 14,
+     "title": "O design é multidisciplinar ou mal organizado?",
+     "authors": [
+      "Rafael Ancara"
+     ],
+     "illustrators": [
+      "Guilherme Kurten"
+     ]
+    },
+    {
+     "page": 16,
+     "title": "Qual é a chance de um designer ser milionário?",
+     "authors": [
+      "Diego Silvério"
+     ],
+     "illustrators": [
+      "Andrés Amoedo"
+     ]
+    },
+    {
+     "page": 18,
+     "title": "Generalista ou especialista?",
+     "authors": [
+      "Ricardo Martins"
+     ],
+     "illustrators": [
+      "Silvia Boriani"
+     ]
+    },
+    {
+     "page": 20,
+     "title": "A universidade é importante para ser um designer?",
+     "authors": [
+      "Nelson Balaban"
+     ],
+     "illustrators": [
+      "Vanessa Gomes"
+     ]
+    },
+    {
+     "page": 22,
+     "title": "Como seria a universidade perfeita?",
+     "authors": [
+      "Mauro Alex"
+     ],
+     "illustrators": [
+      "Ramon Madeira"
+     ]
+    },
+    {
+     "page": 24,
+     "title": "Como explicar para a sua avó o que é design?",
+     "authors": [
+      "Bolívar Escobar"
+     ],
+     "illustrators": [
+      "Mariane Silvestre"
+     ]
+    },
+    {
+     "page": 26,
+     "title": "Quantas fontes um designer deve ter?",
+     "authors": [
+      "Eduilson Coan"
+     ],
+     "illustrators": [
+      "Marcos de Lima"
+     ]
+    },
+    {
+     "page": 28,
+     "title": "O que é pixel?",
+     "authors": [
+      "Maia Ferrari"
+     ],
+     "illustrators": [
+      "Fiedler"
+     ]
+    },
+    {
+     "page": 30,
+     "title": "Preciso desenhar para fazer design?",
+     "authors": [
+      "Liber Paz"
+     ],
+     "illustrators": [
+      "Lucas Garcia",
+      "Letícia Turola"
+     ]
+    },
+    {
+     "page": 32,
+     "title": "Tendência é bom ou ruim?",
+     "authors": [
+      "Fabrício Teixeira"
+     ],
+     "illustrators": [
+      "Jairo Souza"
+     ]
+    },
+    {
+     "page": 34,
+     "title": "Por que muitas vezes o design é subordinado à publicidade?",
+     "authors": [
+      "Martim Fernandes"
+     ],
+     "illustrators": [
+      "Anastasia Pugacheva"
+     ]
+    },
+    {
+     "page": 36,
+     "title": "O design pode ser neutro?",
+     "authors": [
+      "Marinês Ribeiro"
+     ],
+     "illustrators": [
+      "Henrique Lindner"
+     ]
+    },
+    {
+     "page": 38,
+     "title": "Qual seria a importância do design em um universo pós-apocalíptico?",
+     "authors": [
+      "Frederick van Amstel"
+     ],
+     "illustrators": [
+      "Alexandre Palacio dos Santos"
+     ]
+    },
+    {
+     "page": 40,
+     "title": "Design thinking existe?",
+     "authors": [
+      "Cuducos"
+     ],
+     "illustrators": [
+      "Eric Monge Han Schneider"
+     ]
+    },
+    {
+     "page": 42,
+     "title": "A ferramenta influencia no resultado da criação?",
+     "authors": [
+      "Rodrigo Gonzatto"
+     ],
+     "illustrators": [
+      "Felipe Cesar"
+     ]
+    },
+    {
+     "page": 44,
+     "title": "Existe designer daltônico?",
+     "authors": [
+      "Maia Amanda"
+     ],
+     "illustrators": [
+      "Cristiano Vieira"
+     ]
+    },
+    {
+     "page": 46,
+     "title": "Quais são as mentiras que designers contam?",
+     "authors": [
+      "Leonardo Sandim"
+     ],
+     "illustrators": [
+      "Julian Boledi"
+     ]
+    },
+    {
+     "page": 48,
+     "title": "Existe design eterno?",
+     "authors": [
+      "Paula Cruz"
+     ],
+     "illustrators": [
+      "Guilherme Gonçalves"
+     ]
+    },
+    {
+     "page": 50,
+     "title": "Infográfico"
+    },
+    {
+     "page": 52,
+     "title": "Portfólio"
+    },
+    {
+     "page": 53,
+     "title": "Forefinger",
+     "authors": [
+      "Gustavo Nascimento Borges",
+      "João Marcus Andrade de Souza",
+      "Karina Camacho",
+      "Otávio Pereira da Silva",
+      "Sara Cegantin"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 55,
+     "title": "Projeto Regenera",
+     "authors": [
+      "Gisele Resende Costa"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 56,
+     "title": "Banco Arqueio",
+     "authors": [
+      "Andreza Godoi"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 57,
+     "title": "Embalagem VHS – MIS",
+     "authors": [
+      "Rafael Marques"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 58,
+     "title": "Livro-objeto O Elo Partido",
+     "authors": [
+      "Juliana Cioffi"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 59,
+     "title": "FITT",
+     "authors": [
+      "Isabela Feltrin Bernardes",
+      "Joy Endo Tran"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 61,
+     "title": "Hiato",
+     "authors": [
+      "Adenauer Neves",
+      "Pagu Senna"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 62,
+     "title": "Cartaz Frangada 2011 a 2013",
+     "authors": [
+      "Christian Neller",
+      "Natan Schäfer",
+      "Luan Campos"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 63,
+     "title": "Poltrona Sesso",
+     "authors": [
+      "Pedro de Souza Barbosa"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 64,
+     "title": "Nepente",
+     "authors": [
+      "Samuel Bohn"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 66,
+     "title": "Viagem ao país dos sonhos",
+     "authors": [
+      "Michelle Santos",
+      "Renata Ramos"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 67,
+     "title": "Banqueta TX5",
+     "authors": [
+      "Diesko Rezende da Rosa",
+      "Vitor Rosa"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 69,
+     "title": "Xadrez do cangaço",
+     "authors": [
+      "Olavo Oliveira"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 70,
+     "title": "Décima Primeira SEA",
+     "authors": [
+      "Gustavo Nascimento Borges",
+      "João Marcus Andrade de Souza"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 72,
+     "title": "Agradecimentos Catarse"
+    },
+    {
+     "page": 74,
+     "title": "Acabou?"
+    }
+   ]
+  }
+ ]
+}

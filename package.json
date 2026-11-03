@@ -1,0 +1,31 @@
+{
+  "name": "revistacliche",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && node scripts/index.mjs && rm -rf public/pagefind && cp -R out/pagefind public/pagefind",
+    "export": "python3 -I scripts/export_wp.py _bkp/177_153_63_81.sql _bkp/public_html/wp-content/uploads",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "d3-force": "^3.0.0",
+    "d3-selection": "^3.0.0",
+    "d3-transition": "^3.0.1",
+    "d3-zoom": "^3.0.0",
+    "next": "^16.4.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/d3-force": "^3.0.10",
+    "@types/d3-selection": "^3.0.12",
+    "@types/d3-transition": "^3.0.9",
+    "@types/d3-zoom": "^3.0.9",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "cf": "^1.0.0-beta.27",
+    "pagefind": "^1.6.0",
+    "typescript": "^7.0.2",
+    "wrangler": "^4.156.2"
+  }
+}

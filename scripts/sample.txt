@@ -1,0 +1,39 @@
+# Sample for layout work. One slug per line.
+# 2011
+bem-vindo-a-cliche-online
+a-m-cassandre
+design-na-web-com-css3
+the-backwater-gospel
+pyx-motion-design
+cranio-camisetas
+# 2012
+vintage-e-retro
+bauhaus-e-o-design-de-interiores
+ambientes-tematicos-games
+jessicawalsh
+renata-rubim
+semioticamente-falando
+moda-na-era-digital
+o-young-studio-esta-na-moda
+extra-2
+# 2013
+coracoes-de-mae-arpoes-sereias-e-serpentes
+o-designer-valorizado-parte-1
+another-earth-e-o-espelho-quebrado-da-identidade
+# 2014
+projeto-rapport
+cristian-boian
+de-designer-e-louco
+# 2015
+critica-ao-livro-a-cidade-a-cidade-de-china-mieville
+# podcasts
+clichecast-problemas-zumbis
+clichecast02
+clichecast03-futurologia
+clichecast04-eu-estagio-tu-trabalhas-ele-freela
+clichecast07-mas-que-animacao
+clichecast21-massimo-vignelli
+clichecast22-n-motivos-para-ir
+clichecast44-first-things-first
+# all episodes (text + covers; only a few MP3s are copied)
+category:ClicheCast

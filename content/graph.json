@@ -1,0 +1,5626 @@
+{
+ "nodes": [
+  {
+   "slug": "paulacruz",
+   "name": "Paula Cruz",
+   "count": 13
+  },
+  {
+   "slug": "marcosbeccari",
+   "name": "Marcos Beccari",
+   "count": 46
+  },
+  {
+   "slug": "wagner-regis",
+   "name": "Wagner Regis",
+   "count": 65
+  },
+  {
+   "slug": "bruna-bonifacio",
+   "name": "Bruna Bonifacio",
+   "count": 45
+  },
+  {
+   "slug": "dariojofilly",
+   "name": "Dario Jofilly",
+   "count": 8
+  },
+  {
+   "slug": "riikka-sormunen",
+   "name": "Riikka Sormunen",
+   "count": 1
+  },
+  {
+   "slug": "viniciuslira",
+   "name": "Vinicius Lira",
+   "count": 2
+  },
+  {
+   "slug": "isafuchs",
+   "name": "Isabela Fuchs",
+   "count": 15
+  },
+  {
+   "slug": "diegosilverio",
+   "name": "Diego Silvério",
+   "count": 17
+  },
+  {
+   "slug": "condegoiania",
+   "name": "N_Goiânia 2014",
+   "count": 1
+  },
+  {
+   "slug": "algures",
+   "name": "Algures",
+   "count": 1
+  },
+  {
+   "slug": "vlisco",
+   "name": "Vlisco",
+   "count": 1
+  },
+  {
+   "slug": "carolzanelatto",
+   "name": "Carol Zanelatto",
+   "count": 10
+  },
+  {
+   "slug": "projeto-rapport",
+   "name": "Projeto Rapport",
+   "count": 1
+  },
+  {
+   "slug": "mauromuller",
+   "name": "Mauro Adriano Müller",
+   "count": 17
+  },
+  {
+   "slug": "zehfernandes",
+   "name": "Zeh Fernandes",
+   "count": 50
+  },
+  {
+   "slug": "guiwebster",
+   "name": "Guilherme Webster",
+   "count": 1
+  },
+  {
+   "slug": "nendo-oki-sato",
+   "name": "Nendo/Oki Sato",
+   "count": 1
+  },
+  {
+   "slug": "amandafortes",
+   "name": "Maia Amanda",
+   "count": 18
+  },
+  {
+   "slug": "cirooliveira",
+   "name": "Ciro Oliveira",
+   "count": 1
+  },
+  {
+   "slug": "fabimaffezzolli",
+   "name": "Fabiana Maffezzolli",
+   "count": 1
+  },
+  {
+   "slug": "rpoa",
+   "name": "R Design Porto Alegre 2013",
+   "count": 1
+  },
+  {
+   "slug": "henriquecabral",
+   "name": "Henrique Cabral",
+   "count": 17
+  },
+  {
+   "slug": "sanyalice",
+   "name": "Sany Alice",
+   "count": 15
+  },
+  {
+   "slug": "raphainoue",
+   "name": "Raphael T. Inoue",
+   "count": 18
+  },
+  {
+   "slug": "rob-batista",
+   "name": "Rob Batista",
+   "count": 14
+  },
+  {
+   "slug": "guisantos",
+   "name": "Gui Santos",
+   "count": 15
+  },
+  {
+   "slug": "jonathan-ive",
+   "name": "Jonathan Ive",
+   "count": 1
+  },
+  {
+   "slug": "gutosouza",
+   "name": "Guto Souza",
+   "count": 12
+  },
+  {
+   "slug": "amanda-prado",
+   "name": "Amanda Prado",
+   "count": 13
+  },
+  {
+   "slug": "eduardodario",
+   "name": "Eduardo Dario",
+   "count": 4
+  },
+  {
+   "slug": "luabreu",
+   "name": "Luanna Abreu",
+   "count": 4
+  },
+  {
+   "slug": "fredvanamstel",
+   "name": "Frederick van Amstel",
+   "count": 3
+  },
+  {
+   "slug": "vanessagabardo",
+   "name": "Vanessa Gabardo",
+   "count": 7
+  },
+  {
+   "slug": "guilherme-leick",
+   "name": "Guilherme Leick",
+   "count": 1
+  },
+  {
+   "slug": "de-rua",
+   "name": "De rua",
+   "count": 1
+  },
+  {
+   "slug": "karim-rashid",
+   "name": "Karim Rashid",
+   "count": 1
+  },
+  {
+   "slug": "talita-fernandes-n-silva",
+   "name": "Talita Fernandes N. Silva",
+   "count": 1
+  },
+  {
+   "slug": "sobre-arte-performatica",
+   "name": "Sobre Arte Performática",
+   "count": 1
+  },
+  {
+   "slug": "mil-ilustras",
+   "name": "Mil Ilustras",
+   "count": 1
+  },
+  {
+   "slug": "do-pixel-ao-voxel",
+   "name": "Do Pixel ao Voxel",
+   "count": 1
+  },
+  {
+   "slug": "sandroschmitz",
+   "name": "Sandro Schmitz",
+   "count": 5
+  },
+  {
+   "slug": "hpizaia",
+   "name": "Hugo Pizaia",
+   "count": 33
+  },
+  {
+   "slug": "rodrigojanz",
+   "name": "Rodrigo Janz",
+   "count": 7
+  },
+  {
+   "slug": "gustavohenrique",
+   "name": "Gustavo Henrique",
+   "count": 1
+  },
+  {
+   "slug": "hugosigaud",
+   "name": "Hugo Sigaud",
+   "count": 1
+  },
+  {
+   "slug": "luigi-colani",
+   "name": "Luigi Colani",
+   "count": 1
+  },
+  {
+   "slug": "garlig",
+   "name": "Thiago Grossmann",
+   "count": 59
+  },
+  {
+   "slug": "tokujin-yoshioka",
+   "name": "Tokujin Yoshioka",
+   "count": 1
+  },
+  {
+   "slug": "aloisio-magalhaes",
+   "name": "Aloísio Magalhães",
+   "count": 1
+  },
+  {
+   "slug": "georgiabueno",
+   "name": "Georgia Graichen Bueno",
+   "count": 5
+  },
+  {
+   "slug": "renata-rubim",
+   "name": "Renata Rubim",
+   "count": 1
+  },
+  {
+   "slug": "amandagrigorio",
+   "name": "Amanda Grigorio",
+   "count": 2
+  },
+  {
+   "slug": "alexey-brodovitch",
+   "name": "Alexey Brodovitch",
+   "count": 1
+  },
+  {
+   "slug": "julio-teodoro",
+   "name": "Julio Teodoro",
+   "count": 5
+  },
+  {
+   "slug": "rcuritiba",
+   "name": "CORDe Conteúdo",
+   "count": 1
+  },
+  {
+   "slug": "inspiracoes-sensoriais-na-arte",
+   "name": "Inspirações Sensoriais na Arte",
+   "count": 1
+  },
+  {
+   "slug": "fernanda-de-aguiar",
+   "name": "Fernanda de Aguiar",
+   "count": 2
+  },
+  {
+   "slug": "marian-bantjes",
+   "name": "Marian Bantjes",
+   "count": 1
+  },
+  {
+   "slug": "anapaula",
+   "name": "Ana Paula Guimarães",
+   "count": 10
+  },
+  {
+   "slug": "biancagiordani",
+   "name": "Bianca Giordani",
+   "count": 1
+  },
+  {
+   "slug": "mary-katrantzou",
+   "name": "Mary Katrantzou",
+   "count": 1
+  },
+  {
+   "slug": "leoprado",
+   "name": "Leonardo Prado",
+   "count": 2
+  },
+  {
+   "slug": "roman-e-erwan-bouroullec",
+   "name": "Roman e Erwan Bouroullec",
+   "count": 1
+  },
+  {
+   "slug": "helena-cintra",
+   "name": "Helena Cintra",
+   "count": 1
+  },
+  {
+   "slug": "lucas-queiroz",
+   "name": "Lucas Queiroz Morais",
+   "count": 1
+  },
+  {
+   "slug": "anest",
+   "name": "Anest",
+   "count": 1
+  },
+  {
+   "slug": "felipe-protski-martins",
+   "name": "Felipe Protski Martins",
+   "count": 1
+  },
+  {
+   "slug": "jessica-walsh",
+   "name": "Jessica Walsh",
+   "count": 1
+  },
+  {
+   "slug": "ulissescs",
+   "name": "Ulisses Candal",
+   "count": 15
+  },
+  {
+   "slug": "jaquelinecarvalho",
+   "name": "Jaqueline Carvalho",
+   "count": 2
+  },
+  {
+   "slug": "fernanda-madlener",
+   "name": "Fernanda Madlener",
+   "count": 3
+  },
+  {
+   "slug": "carlosbauer",
+   "name": "Carlos Bauer",
+   "count": 5
+  },
+  {
+   "slug": "debli",
+   "name": "Debli",
+   "count": 1
+  },
+  {
+   "slug": "fernando-henrique",
+   "name": "Fernando Henrique",
+   "count": 1
+  },
+  {
+   "slug": "laisisfer",
+   "name": "Laís Isfer",
+   "count": 1
+  },
+  {
+   "slug": "yasmine-m-kato",
+   "name": "Yasmine M. Kato",
+   "count": 2
+  },
+  {
+   "slug": "jessicacastelari",
+   "name": "jessicacastelari",
+   "count": 1
+  },
+  {
+   "slug": "zenorocha",
+   "name": "Zeno Rocha",
+   "count": 2
+  },
+  {
+   "slug": "pianofuzz-design-studio",
+   "name": "Pianofuzz Design Studio",
+   "count": 1
+  },
+  {
+   "slug": "rahma-projekt",
+   "name": "Rahma Projekt",
+   "count": 1
+  },
+  {
+   "slug": "a-m-cassandre",
+   "name": "A.M Cassandre",
+   "count": 1
+  },
+  {
+   "slug": "pyx-motion-design",
+   "name": "Pyx Motion Design",
+   "count": 1
+  },
+  {
+   "slug": "chris-landreth",
+   "name": "Chris Landreth",
+   "count": 1
+  },
+  {
+   "slug": "guilherme-nagueva",
+   "name": "Guilherme Nagüeva",
+   "count": 2
+  },
+  {
+   "slug": "irina-serrano",
+   "name": "Irina Serrano",
+   "count": 1
+  },
+  {
+   "slug": "guilherme-kurten",
+   "name": "Guilherme Kurten",
+   "count": 11
+  },
+  {
+   "slug": "eduardo-avellar",
+   "name": "Eduardo Avellar",
+   "count": 2
+  },
+  {
+   "slug": "nathalia-camargo",
+   "name": "Nathalia Camargo",
+   "count": 1
+  },
+  {
+   "slug": "renata-schwegler",
+   "name": "Renata Schwegler",
+   "count": 1
+  },
+  {
+   "slug": "babi-sonnewend",
+   "name": "Babi Sonnewend",
+   "count": 1
+  },
+  {
+   "slug": "scarlet-rodrigues",
+   "name": "Scarlet Rodrigues",
+   "count": 1
+  },
+  {
+   "slug": "cassio-oliveira",
+   "name": "Cassio Oliveira",
+   "count": 3
+  },
+  {
+   "slug": "rafael-dutra",
+   "name": "Rafael Dutra",
+   "count": 2
+  },
+  {
+   "slug": "amanda-camargo",
+   "name": "Amanda Camargo",
+   "count": 1
+  },
+  {
+   "slug": "daniel-perez-arthur",
+   "name": "Daniel Perez Arthur",
+   "count": 1
+  },
+  {
+   "slug": "renato-faccini",
+   "name": "Renato Faccini",
+   "count": 12
+  },
+  {
+   "slug": "armando-neto",
+   "name": "Armando Neto",
+   "count": 2
+  },
+  {
+   "slug": "lucas-ed",
+   "name": "Lucas Ed",
+   "count": 1
+  },
+  {
+   "slug": "kira",
+   "name": "Kira",
+   "count": 1
+  },
+  {
+   "slug": "felipe-grillo",
+   "name": "Felipe Grillo",
+   "count": 1
+  },
+  {
+   "slug": "carolina-garofani",
+   "name": "Carolina Garofani",
+   "count": 1
+  },
+  {
+   "slug": "guilherme-goncalves",
+   "name": "Guilherme Gonçalves",
+   "count": 2
+  },
+  {
+   "slug": "marcus-pilleggi",
+   "name": "Marcus Pilleggi",
+   "count": 2
+  },
+  {
+   "slug": "victor-kebbe",
+   "name": "Victor Kebbe",
+   "count": 2
+  },
+  {
+   "slug": "carlos-ferreira",
+   "name": "Carlos Ferreira",
+   "count": 1
+  },
+  {
+   "slug": "lobo",
+   "name": "Lobo",
+   "count": 1
+  },
+  {
+   "slug": "anastasia-pugacheva",
+   "name": "Anastasia Pugacheva",
+   "count": 2
+  },
+  {
+   "slug": "fernanda-almeida",
+   "name": "Fernanda Almeida",
+   "count": 1
+  },
+  {
+   "slug": "felipe-luize",
+   "name": "Felipe Luize",
+   "count": 1
+  },
+  {
+   "slug": "zeh-fernando",
+   "name": "Zeh Fernando",
+   "count": 1
+  },
+  {
+   "slug": "jorge-teivelis",
+   "name": "Jorge Teivelis",
+   "count": 1
+  },
+  {
+   "slug": "rafo-castro",
+   "name": "Rafo Castro",
+   "count": 2
+  },
+  {
+   "slug": "claudio-reston",
+   "name": "Claudio Reston",
+   "count": 1
+  },
+  {
+   "slug": "juliano-griebeler",
+   "name": "Juliano Griebeler",
+   "count": 1
+  },
+  {
+   "slug": "liber-paz",
+   "name": "Liber Paz",
+   "count": 5
+  },
+  {
+   "slug": "celso-menezes",
+   "name": "Celso Menezes",
+   "count": 1
+  },
+  {
+   "slug": "murilo-mafra",
+   "name": "Murilo Mafra",
+   "count": 5
+  },
+  {
+   "slug": "renato-estranho",
+   "name": "Renato Estranho",
+   "count": 2
+  },
+  {
+   "slug": "alexandre-planpona",
+   "name": "Alexandre Planpona",
+   "count": 1
+  },
+  {
+   "slug": "luke-garcia",
+   "name": "Luke Garcia",
+   "count": 1
+  },
+  {
+   "slug": "tiago-lopo",
+   "name": "Tiago Lopo",
+   "count": 1
+  },
+  {
+   "slug": "daniel-moura",
+   "name": "Daniel Moura",
+   "count": 3
+  },
+  {
+   "slug": "jande-farias",
+   "name": "Jandê Farias",
+   "count": 1
+  },
+  {
+   "slug": "ivan-mizanzuk",
+   "name": "Ivan Mizanzuk",
+   "count": 5
+  },
+  {
+   "slug": "igo",
+   "name": "Igo",
+   "count": 1
+  },
+  {
+   "slug": "mario",
+   "name": "Mario",
+   "count": 1
+  },
+  {
+   "slug": "eduardo-quagliato",
+   "name": "Eduardo Quagliato",
+   "count": 1
+  },
+  {
+   "slug": "henrique-nardi",
+   "name": "Henrique Nardi",
+   "count": 1
+  },
+  {
+   "slug": "zamiliano",
+   "name": "Zamiliano",
+   "count": 1
+  },
+  {
+   "slug": "lorrana-scarpioni",
+   "name": "Lorrana Scarpioni",
+   "count": 1
+  },
+  {
+   "slug": "paulo-abreu",
+   "name": "Paulo Abreu",
+   "count": 1
+  },
+  {
+   "slug": "welliton-oliveira",
+   "name": "Welliton Oliveira",
+   "count": 1
+  },
+  {
+   "slug": "iosef-fagundes",
+   "name": "Iosef Fagundes",
+   "count": 1
+  },
+  {
+   "slug": "diego-duenhas",
+   "name": "Diego Duenhas",
+   "count": 1
+  },
+  {
+   "slug": "andre-talhari",
+   "name": "André Talhari",
+   "count": 2
+  },
+  {
+   "slug": "yoshi",
+   "name": "Yoshi",
+   "count": 1
+  },
+  {
+   "slug": "erico-fileno",
+   "name": "Érico Fileno",
+   "count": 1
+  },
+  {
+   "slug": "eduilson-coan",
+   "name": "Eduilson Coan",
+   "count": 2
+  },
+  {
+   "slug": "daniel-campos",
+   "name": "Daniel Campos",
+   "count": 1
+  },
+  {
+   "slug": "marines-ribeiro",
+   "name": "Marinês Ribeiro",
+   "count": 2
+  },
+  {
+   "slug": "cuducos",
+   "name": "Cuducos",
+   "count": 2
+  },
+  {
+   "slug": "marcel-bely",
+   "name": "Marcel Bely",
+   "count": 1
+  },
+  {
+   "slug": "karina-floriani",
+   "name": "Karina Floriani",
+   "count": 1
+  },
+  {
+   "slug": "janaina-tazoniero",
+   "name": "Janaina Tazoniero",
+   "count": 1
+  },
+  {
+   "slug": "debora-marquesi",
+   "name": "Débora Marquesi",
+   "count": 1
+  },
+  {
+   "slug": "joana-rosella",
+   "name": "Joana Rosella",
+   "count": 1
+  },
+  {
+   "slug": "jose-fernandes",
+   "name": "José Fernandes",
+   "count": 1
+  },
+  {
+   "slug": "pedro-savio",
+   "name": "Pedro Savio",
+   "count": 1
+  },
+  {
+   "slug": "carolina-gritten",
+   "name": "Carolina Gritten",
+   "count": 1
+  },
+  {
+   "slug": "glauco-teixeira",
+   "name": "Glauco Teixeira",
+   "count": 1
+  },
+  {
+   "slug": "lucas-rechinel",
+   "name": "Lucas Rechinel",
+   "count": 1
+  },
+  {
+   "slug": "cauhana-tafarelo-de-oliveira",
+   "name": "Cauhana Tafarelo de Oliveira",
+   "count": 1
+  },
+  {
+   "slug": "luis-gustavo-p-costenaro",
+   "name": "Luís Gustavo P. Costenaro",
+   "count": 1
+  },
+  {
+   "slug": "luiz-postal",
+   "name": "Luiz Postal",
+   "count": 1
+  },
+  {
+   "slug": "daniel-linhares",
+   "name": "Daniel Linhares",
+   "count": 1
+  },
+  {
+   "slug": "eduardo-campos",
+   "name": "Eduardo Campos",
+   "count": 1
+  },
+  {
+   "slug": "hugo-moura-hulle",
+   "name": "Hugo Moura Hülle",
+   "count": 1
+  },
+  {
+   "slug": "elaine-siegel-de-lima",
+   "name": "Elaine Siegel de Lima",
+   "count": 1
+  },
+  {
+   "slug": "daniel-ferreira-florencio",
+   "name": "Daniel Ferreira Florencio",
+   "count": 1
+  },
+  {
+   "slug": "gustavo-ramos-marques",
+   "name": "Gustavo Ramos Marques",
+   "count": 1
+  },
+  {
+   "slug": "isabela-nishijima",
+   "name": "Isabela Nishijima",
+   "count": 1
+  },
+  {
+   "slug": "estevam-cezar-maia",
+   "name": "Estevam Cezar Maia",
+   "count": 1
+  },
+  {
+   "slug": "tarliny-da-silva",
+   "name": "Tarliny da Silva",
+   "count": 1
+  },
+  {
+   "slug": "varlei-jose-janei",
+   "name": "Varlei José Janei",
+   "count": 1
+  },
+  {
+   "slug": "angela-c-sant-anna",
+   "name": "Angela C. Sant Anna",
+   "count": 1
+  },
+  {
+   "slug": "karin-teodorovicz",
+   "name": "Karin Teodorovicz",
+   "count": 1
+  },
+  {
+   "slug": "herico-prado-ferreira",
+   "name": "Herico Prado Ferreira",
+   "count": 1
+  },
+  {
+   "slug": "vanessa-eimy-koga",
+   "name": "Vanessa Eimy Koga",
+   "count": 1
+  },
+  {
+   "slug": "larissa-bueno-otto",
+   "name": "Larissa Bueno Otto",
+   "count": 1
+  },
+  {
+   "slug": "raphael-silveira-de-lavor",
+   "name": "Raphael Silveira de Lavor",
+   "count": 1
+  },
+  {
+   "slug": "esther-michel-chen",
+   "name": "Esther Michel Chen",
+   "count": 1
+  },
+  {
+   "slug": "maycon-passos-de-melo",
+   "name": "Maycon Passos de Melo",
+   "count": 1
+  },
+  {
+   "slug": "ana-paula-vontempski",
+   "name": "Ana Paula Vontempski",
+   "count": 1
+  },
+  {
+   "slug": "yasmine-martins-kato",
+   "name": "Yasmine Martins Kato",
+   "count": 1
+  },
+  {
+   "slug": "eryk-gurski",
+   "name": "Eryk Gurski",
+   "count": 1
+  },
+  {
+   "slug": "tiago-r-rossmann",
+   "name": "Tiago R. Rossmann",
+   "count": 1
+  },
+  {
+   "slug": "mariana-negreiros",
+   "name": "Mariana Negreiros",
+   "count": 1
+  },
+  {
+   "slug": "humorvitreo",
+   "name": "Humorvítreo",
+   "count": 1
+  },
+  {
+   "slug": "pedro-lima-dagua",
+   "name": "Pedro Lima D’Água",
+   "count": 1
+  },
+  {
+   "slug": "livia-weyl",
+   "name": "Lívia Weyl",
+   "count": 1
+  },
+  {
+   "slug": "huemerson-leal",
+   "name": "Huemerson Leal",
+   "count": 1
+  },
+  {
+   "slug": "igor-moura",
+   "name": "Igor Moura",
+   "count": 1
+  },
+  {
+   "slug": "giovanni-girardi",
+   "name": "Giovanni Girardi",
+   "count": 1
+  },
+  {
+   "slug": "jairo-souza",
+   "name": "Jairo Souza",
+   "count": 2
+  },
+  {
+   "slug": "felipe-protski",
+   "name": "Felipe Protski",
+   "count": 1
+  },
+  {
+   "slug": "rafael-pavarotti",
+   "name": "Rafael Pavarotti",
+   "count": 1
+  },
+  {
+   "slug": "stefane-correa",
+   "name": "Stefane Correa",
+   "count": 1
+  },
+  {
+   "slug": "evora-andrade",
+   "name": "Évora Andrade",
+   "count": 1
+  },
+  {
+   "slug": "bicicleta-sem-freio",
+   "name": "Bicicleta Sem Freio",
+   "count": 1
+  },
+  {
+   "slug": "estabelecimento",
+   "name": "Estabelecimento",
+   "count": 1
+  },
+  {
+   "slug": "vanessa-bornemann",
+   "name": "Vanessa Bornemann",
+   "count": 1
+  },
+  {
+   "slug": "arthur-duarte",
+   "name": "Arthur Duarte",
+   "count": 1
+  },
+  {
+   "slug": "rafael-ancara",
+   "name": "Rafael Ancara",
+   "count": 1
+  },
+  {
+   "slug": "andres-amoedo",
+   "name": "Andrés Amoedo",
+   "count": 1
+  },
+  {
+   "slug": "ricardo-martins",
+   "name": "Ricardo Martins",
+   "count": 1
+  },
+  {
+   "slug": "silvia-boriani",
+   "name": "Silvia Boriani",
+   "count": 1
+  },
+  {
+   "slug": "nelson-balaban",
+   "name": "Nelson Balaban",
+   "count": 1
+  },
+  {
+   "slug": "vanessa-gomes",
+   "name": "Vanessa Gomes",
+   "count": 1
+  },
+  {
+   "slug": "mauro-alex",
+   "name": "Mauro Alex",
+   "count": 1
+  },
+  {
+   "slug": "ramon-madeira",
+   "name": "Ramon Madeira",
+   "count": 1
+  },
+  {
+   "slug": "bolivar-escobar",
+   "name": "Bolívar Escobar",
+   "count": 1
+  },
+  {
+   "slug": "mariane-silvestre",
+   "name": "Mariane Silvestre",
+   "count": 1
+  },
+  {
+   "slug": "marcos-de-lima",
+   "name": "Marcos de Lima",
+   "count": 1
+  },
+  {
+   "slug": "maia-ferrari",
+   "name": "Maia Ferrari",
+   "count": 1
+  },
+  {
+   "slug": "fiedler",
+   "name": "Fiedler",
+   "count": 1
+  },
+  {
+   "slug": "lucas-garcia",
+   "name": "Lucas Garcia",
+   "count": 1
+  },
+  {
+   "slug": "leticia-turola",
+   "name": "Letícia Turola",
+   "count": 1
+  },
+  {
+   "slug": "fabricio-teixeira",
+   "name": "Fabrício Teixeira",
+   "count": 1
+  },
+  {
+   "slug": "martim-fernandes",
+   "name": "Martim Fernandes",
+   "count": 1
+  },
+  {
+   "slug": "henrique-lindner",
+   "name": "Henrique Lindner",
+   "count": 1
+  },
+  {
+   "slug": "alexandre-palacio-dos-santos",
+   "name": "Alexandre Palacio dos Santos",
+   "count": 1
+  },
+  {
+   "slug": "eric-monge-han-schneider",
+   "name": "Eric Monge Han Schneider",
+   "count": 1
+  },
+  {
+   "slug": "rodrigo-gonzatto",
+   "name": "Rodrigo Gonzatto",
+   "count": 1
+  },
+  {
+   "slug": "felipe-cesar",
+   "name": "Felipe Cesar",
+   "count": 1
+  },
+  {
+   "slug": "cristiano-vieira",
+   "name": "Cristiano Vieira",
+   "count": 1
+  },
+  {
+   "slug": "leonardo-sandim",
+   "name": "Leonardo Sandim",
+   "count": 1
+  },
+  {
+   "slug": "julian-boledi",
+   "name": "Julian Boledi",
+   "count": 1
+  },
+  {
+   "slug": "gustavo-nascimento-borges",
+   "name": "Gustavo Nascimento Borges",
+   "count": 2
+  },
+  {
+   "slug": "joao-marcus-andrade-de-souza",
+   "name": "João Marcus Andrade de Souza",
+   "count": 2
+  },
+  {
+   "slug": "karina-camacho",
+   "name": "Karina Camacho",
+   "count": 1
+  },
+  {
+   "slug": "otavio-pereira-da-silva",
+   "name": "Otávio Pereira da Silva",
+   "count": 1
+  },
+  {
+   "slug": "sara-cegantin",
+   "name": "Sara Cegantin",
+   "count": 1
+  },
+  {
+   "slug": "gisele-resende-costa",
+   "name": "Gisele Resende Costa",
+   "count": 1
+  },
+  {
+   "slug": "andreza-godoi",
+   "name": "Andreza Godoi",
+   "count": 1
+  },
+  {
+   "slug": "rafael-marques",
+   "name": "Rafael Marques",
+   "count": 1
+  },
+  {
+   "slug": "juliana-cioffi",
+   "name": "Juliana Cioffi",
+   "count": 1
+  },
+  {
+   "slug": "isabela-feltrin-bernardes",
+   "name": "Isabela Feltrin Bernardes",
+   "count": 1
+  },
+  {
+   "slug": "joy-endo-tran",
+   "name": "Joy Endo Tran",
+   "count": 1
+  },
+  {
+   "slug": "adenauer-neves",
+   "name": "Adenauer Neves",
+   "count": 1
+  },
+  {
+   "slug": "pagu-senna",
+   "name": "Pagu Senna",
+   "count": 1
+  },
+  {
+   "slug": "christian-neller",
+   "name": "Christian Neller",
+   "count": 1
+  },
+  {
+   "slug": "natan-schafer",
+   "name": "Natan Schäfer",
+   "count": 1
+  },
+  {
+   "slug": "luan-campos",
+   "name": "Luan Campos",
+   "count": 1
+  },
+  {
+   "slug": "pedro-de-souza-barbosa",
+   "name": "Pedro de Souza Barbosa",
+   "count": 1
+  },
+  {
+   "slug": "samuel-bohn",
+   "name": "Samuel Bohn",
+   "count": 1
+  },
+  {
+   "slug": "michelle-santos",
+   "name": "Michelle Santos",
+   "count": 1
+  },
+  {
+   "slug": "renata-ramos",
+   "name": "Renata Ramos",
+   "count": 1
+  },
+  {
+   "slug": "diesko-rezende-da-rosa",
+   "name": "Diesko Rezende da Rosa",
+   "count": 1
+  },
+  {
+   "slug": "vitor-rosa",
+   "name": "Vitor Rosa",
+   "count": 1
+  },
+  {
+   "slug": "olavo-oliveira",
+   "name": "Olavo Oliveira",
+   "count": 1
+  }
+ ],
+ "links": [
+  {
+   "source": "a-m-cassandre",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "adenauer-neves",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "adenauer-neves",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "adenauer-neves",
+   "target": "pagu-senna",
+   "weight": 1
+  },
+  {
+   "source": "adenauer-neves",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "adenauer-neves",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "alexandre-palacio-dos-santos",
+   "target": "fredvanamstel",
+   "weight": 1
+  },
+  {
+   "source": "alexandre-palacio-dos-santos",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "alexandre-palacio-dos-santos",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "alexandre-palacio-dos-santos",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "alexandre-palacio-dos-santos",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "alexandre-planpona",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "alexandre-planpona",
+   "target": "renato-estranho",
+   "weight": 1
+  },
+  {
+   "source": "alexey-brodovitch",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "aloisio-magalhaes",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "amanda-camargo",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "amanda-camargo",
+   "target": "guilherme-nagueva",
+   "weight": 1
+  },
+  {
+   "source": "amanda-camargo",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "amandafortes",
+   "target": "cristiano-vieira",
+   "weight": 1
+  },
+  {
+   "source": "amandafortes",
+   "target": "diego-duenhas",
+   "weight": 1
+  },
+  {
+   "source": "amandafortes",
+   "target": "garlig",
+   "weight": 2
+  },
+  {
+   "source": "amandafortes",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "amandafortes",
+   "target": "raphainoue",
+   "weight": 2
+  },
+  {
+   "source": "amandafortes",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "ana-paula-vontempski",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "ana-paula-vontempski",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "ana-paula-vontempski",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "anapaula",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "anapaula",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "anapaula",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "anastasia-pugacheva",
+   "target": "carlos-ferreira",
+   "weight": 1
+  },
+  {
+   "source": "anastasia-pugacheva",
+   "target": "garlig",
+   "weight": 2
+  },
+  {
+   "source": "anastasia-pugacheva",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "anastasia-pugacheva",
+   "target": "lobo",
+   "weight": 1
+  },
+  {
+   "source": "anastasia-pugacheva",
+   "target": "martim-fernandes",
+   "weight": 1
+  },
+  {
+   "source": "anastasia-pugacheva",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "anastasia-pugacheva",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "anastasia-pugacheva",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "bicicleta-sem-freio",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "evora-andrade",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "felipe-protski",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "georgiabueno",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "giovanni-girardi",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "humorvitreo",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "liber-paz",
+   "weight": 2
+  },
+  {
+   "source": "andre-talhari",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "yoshi",
+   "weight": 1
+  },
+  {
+   "source": "andres-amoedo",
+   "target": "diegosilverio",
+   "weight": 1
+  },
+  {
+   "source": "andres-amoedo",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "andres-amoedo",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "andres-amoedo",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "andres-amoedo",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "andreza-godoi",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "andreza-godoi",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "andreza-godoi",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "andreza-godoi",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "angela-c-sant-anna",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "angela-c-sant-anna",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "angela-c-sant-anna",
+   "target": "karin-teodorovicz",
+   "weight": 1
+  },
+  {
+   "source": "angela-c-sant-anna",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "armando-neto",
+   "target": "cassio-oliveira",
+   "weight": 1
+  },
+  {
+   "source": "armando-neto",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "armando-neto",
+   "target": "jorge-teivelis",
+   "weight": 1
+  },
+  {
+   "source": "armando-neto",
+   "target": "lucas-ed",
+   "weight": 1
+  },
+  {
+   "source": "armando-neto",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "armando-neto",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "arthur-duarte",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "arthur-duarte",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "arthur-duarte",
+   "target": "marcosbeccari",
+   "weight": 1
+  },
+  {
+   "source": "arthur-duarte",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "arthur-duarte",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "babi-sonnewend",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "babi-sonnewend",
+   "target": "scarlet-rodrigues",
+   "weight": 1
+  },
+  {
+   "source": "babi-sonnewend",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "evora-andrade",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "felipe-protski",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "georgiabueno",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "giovanni-girardi",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "humorvitreo",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "bicicleta-sem-freio",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "bolivar-escobar",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "bolivar-escobar",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "bolivar-escobar",
+   "target": "mariane-silvestre",
+   "weight": 1
+  },
+  {
+   "source": "bolivar-escobar",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "bolivar-escobar",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "inspiracoes-sensoriais-na-arte",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "marian-bantjes",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "mary-katrantzou",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "projeto-rapport",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "renata-rubim",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "riikka-sormunen",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "roman-e-erwan-bouroullec",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "tokujin-yoshioka",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "vlisco",
+   "weight": 1
+  },
+  {
+   "source": "carlos-ferreira",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "carlos-ferreira",
+   "target": "lobo",
+   "weight": 1
+  },
+  {
+   "source": "carlos-ferreira",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "carlosbauer",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "carlosbauer",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "carlosbauer",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "carolina-garofani",
+   "target": "felipe-grillo",
+   "weight": 1
+  },
+  {
+   "source": "carolina-garofani",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "carolina-garofani",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "carolina-garofani",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "carolina-gritten",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "carolina-gritten",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "carolina-gritten",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "carolzanelatto",
+   "target": "daniel-perez-arthur",
+   "weight": 1
+  },
+  {
+   "source": "carolzanelatto",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "carolzanelatto",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "cassio-oliveira",
+   "target": "garlig",
+   "weight": 2
+  },
+  {
+   "source": "cassio-oliveira",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "cassio-oliveira",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "cassio-oliveira",
+   "target": "jorge-teivelis",
+   "weight": 1
+  },
+  {
+   "source": "cassio-oliveira",
+   "target": "luke-garcia",
+   "weight": 1
+  },
+  {
+   "source": "cassio-oliveira",
+   "target": "rafael-dutra",
+   "weight": 1
+  },
+  {
+   "source": "cassio-oliveira",
+   "target": "tiago-lopo",
+   "weight": 1
+  },
+  {
+   "source": "cassio-oliveira",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "cauhana-tafarelo-de-oliveira",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "cauhana-tafarelo-de-oliveira",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "cauhana-tafarelo-de-oliveira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "celso-menezes",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "celso-menezes",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "celso-menezes",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "christian-neller",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "christian-neller",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "christian-neller",
+   "target": "luan-campos",
+   "weight": 1
+  },
+  {
+   "source": "christian-neller",
+   "target": "natan-schafer",
+   "weight": 1
+  },
+  {
+   "source": "christian-neller",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "christian-neller",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "claudio-reston",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "claudio-reston",
+   "target": "rafo-castro",
+   "weight": 1
+  },
+  {
+   "source": "claudio-reston",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "cristiano-vieira",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "cristiano-vieira",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "cristiano-vieira",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "cristiano-vieira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "cuducos",
+   "target": "eric-monge-han-schneider",
+   "weight": 1
+  },
+  {
+   "source": "cuducos",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "cuducos",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "cuducos",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "cuducos",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "daniel-ferreira-florencio",
+   "target": "elaine-siegel-de-lima",
+   "weight": 1
+  },
+  {
+   "source": "daniel-ferreira-florencio",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "daniel-ferreira-florencio",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "daniel-ferreira-florencio",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "daniel-linhares",
+   "target": "eduardo-campos",
+   "weight": 1
+  },
+  {
+   "source": "daniel-linhares",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "daniel-linhares",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "daniel-linhares",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "daniel-moura",
+   "target": "garlig",
+   "weight": 3
+  },
+  {
+   "source": "daniel-moura",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "daniel-moura",
+   "target": "jande-farias",
+   "weight": 1
+  },
+  {
+   "source": "daniel-moura",
+   "target": "rafo-castro",
+   "weight": 1
+  },
+  {
+   "source": "daniel-moura",
+   "target": "renato-faccini",
+   "weight": 3
+  },
+  {
+   "source": "daniel-perez-arthur",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "daniel-perez-arthur",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "de-rua",
+   "target": "eduardodario",
+   "weight": 1
+  },
+  {
+   "source": "debora-marquesi",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "debora-marquesi",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "debora-marquesi",
+   "target": "joana-rosella",
+   "weight": 1
+  },
+  {
+   "source": "debora-marquesi",
+   "target": "jose-fernandes",
+   "weight": 1
+  },
+  {
+   "source": "debora-marquesi",
+   "target": "pedro-savio",
+   "weight": 1
+  },
+  {
+   "source": "debora-marquesi",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "diego-duenhas",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "diego-duenhas",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "diego-duenhas",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "diegosilverio",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "diegosilverio",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "diegosilverio",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "diegosilverio",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "diesko-rezende-da-rosa",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "diesko-rezende-da-rosa",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "diesko-rezende-da-rosa",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "diesko-rezende-da-rosa",
+   "target": "vitor-rosa",
+   "weight": 1
+  },
+  {
+   "source": "diesko-rezende-da-rosa",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "do-pixel-ao-voxel",
+   "target": "guisantos",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-avellar",
+   "target": "garlig",
+   "weight": 2
+  },
+  {
+   "source": "eduardo-avellar",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-avellar",
+   "target": "nathalia-camargo",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-avellar",
+   "target": "renata-schwegler",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-avellar",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "eduardo-campos",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-campos",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-campos",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-quagliato",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-quagliato",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "eduardo-quagliato",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "eduardodario",
+   "target": "sobre-arte-performatica",
+   "weight": 1
+  },
+  {
+   "source": "eduilson-coan",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "eduilson-coan",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "eduilson-coan",
+   "target": "marcos-de-lima",
+   "weight": 1
+  },
+  {
+   "source": "eduilson-coan",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "eduilson-coan",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "elaine-siegel-de-lima",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "elaine-siegel-de-lima",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "elaine-siegel-de-lima",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "eric-monge-han-schneider",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "eric-monge-han-schneider",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "eric-monge-han-schneider",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "eric-monge-han-schneider",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "eryk-gurski",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "eryk-gurski",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "eryk-gurski",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "estabelecimento",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "estabelecimento",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "estabelecimento",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "estabelecimento",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "estevam-cezar-maia",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "estevam-cezar-maia",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "estevam-cezar-maia",
+   "target": "tarliny-da-silva",
+   "weight": 1
+  },
+  {
+   "source": "estevam-cezar-maia",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "esther-michel-chen",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "esther-michel-chen",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "esther-michel-chen",
+   "target": "maycon-passos-de-melo",
+   "weight": 1
+  },
+  {
+   "source": "esther-michel-chen",
+   "target": "raphael-silveira-de-lavor",
+   "weight": 1
+  },
+  {
+   "source": "esther-michel-chen",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "felipe-protski",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "georgiabueno",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "giovanni-girardi",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "humorvitreo",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "evora-andrade",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "fabricio-teixeira",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "fabricio-teixeira",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "fabricio-teixeira",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "fabricio-teixeira",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "fabricio-teixeira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "felipe-cesar",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "felipe-cesar",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "felipe-cesar",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "felipe-cesar",
+   "target": "rodrigo-gonzatto",
+   "weight": 1
+  },
+  {
+   "source": "felipe-cesar",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "felipe-grillo",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "felipe-grillo",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "felipe-grillo",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "felipe-luize",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "felipe-luize",
+   "target": "zeh-fernando",
+   "weight": 1
+  },
+  {
+   "source": "felipe-luize",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "felipe-luize",
+   "target": "zenorocha",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "georgiabueno",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "giovanni-girardi",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "humorvitreo",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "felipe-protski-martins",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "fernanda-almeida",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "fernanda-almeida",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "fernanda-almeida",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "fernanda-almeida",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "fernanda-madlener",
+   "target": "garlig",
+   "weight": 2
+  },
+  {
+   "source": "fernanda-madlener",
+   "target": "guilherme-kurten",
+   "weight": 2
+  },
+  {
+   "source": "fernanda-madlener",
+   "target": "hpizaia",
+   "weight": 2
+  },
+  {
+   "source": "fernanda-madlener",
+   "target": "murilo-mafra",
+   "weight": 1
+  },
+  {
+   "source": "fernanda-madlener",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "fernanda-madlener",
+   "target": "renato-estranho",
+   "weight": 1
+  },
+  {
+   "source": "fernanda-madlener",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "fiedler",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "fiedler",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "fiedler",
+   "target": "maia-ferrari",
+   "weight": 1
+  },
+  {
+   "source": "fiedler",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "fiedler",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "fredvanamstel",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "fredvanamstel",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "fredvanamstel",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "fredvanamstel",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "georgiabueno",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "gisele-resende-costa",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "glauco-teixeira",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "guilherme-goncalves",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "guilherme-kurten",
+   "weight": 10
+  },
+  {
+   "source": "garlig",
+   "target": "guilherme-nagueva",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "gustavo-nascimento-borges",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "gustavo-ramos-marques",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "henrique-lindner",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "henrique-nardi",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "herico-prado-ferreira",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "hpizaia",
+   "weight": 20
+  },
+  {
+   "source": "garlig",
+   "target": "hugo-moura-hulle",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "igo",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "iosef-fagundes",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "irina-serrano",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "isabela-feltrin-bernardes",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "isabela-nishijima",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "ivan-mizanzuk",
+   "weight": 4
+  },
+  {
+   "source": "garlig",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "janaina-tazoniero",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "jande-farias",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "jessica-walsh",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "joana-rosella",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "joao-marcus-andrade-de-souza",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "jose-fernandes",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "joy-endo-tran",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "julian-boledi",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "juliana-cioffi",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "juliano-griebeler",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "karin-teodorovicz",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "karina-camacho",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "karina-floriani",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "kira",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "larissa-bueno-otto",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "leonardo-sandim",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "leoprado",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "leticia-turola",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "liber-paz",
+   "weight": 4
+  },
+  {
+   "source": "garlig",
+   "target": "lobo",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "lorrana-scarpioni",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "luan-campos",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "lucas-ed",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "lucas-garcia",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "lucas-rechinel",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "luis-gustavo-p-costenaro",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "luiz-postal",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "luke-garcia",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "maia-ferrari",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "marcel-bely",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "marcos-de-lima",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "marcosbeccari",
+   "weight": 3
+  },
+  {
+   "source": "garlig",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "mariane-silvestre",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "marines-ribeiro",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "mario",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "martim-fernandes",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "mauro-alex",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "maycon-passos-de-melo",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "michelle-santos",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "murilo-mafra",
+   "weight": 5
+  },
+  {
+   "source": "garlig",
+   "target": "natan-schafer",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "nathalia-camargo",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "nelson-balaban",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "olavo-oliveira",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "otavio-pereira-da-silva",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "pagu-senna",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "paulacruz",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "paulo-abreu",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "pedro-de-souza-barbosa",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "pedro-savio",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "rafael-ancara",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "rafael-dutra",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "rafael-marques",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "rafo-castro",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "ramon-madeira",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "raphael-silveira-de-lavor",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "raphainoue",
+   "weight": 7
+  },
+  {
+   "source": "garlig",
+   "target": "renata-ramos",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "renata-schwegler",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "renato-estranho",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "renato-faccini",
+   "weight": 12
+  },
+  {
+   "source": "garlig",
+   "target": "ricardo-martins",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "rodrigo-gonzatto",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "samuel-bohn",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "sara-cegantin",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "scarlet-rodrigues",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "silvia-boriani",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "tarliny-da-silva",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "tiago-lopo",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "ulissescs",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "vanessa-bornemann",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "vanessa-eimy-koga",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "vanessa-gomes",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "varlei-jose-janei",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "vitor-rosa",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "wagner-regis",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "welliton-oliveira",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "yasmine-martins-kato",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "yoshi",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "zamiliano",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "zehfernandes",
+   "weight": 34
+  },
+  {
+   "source": "georgiabueno",
+   "target": "giovanni-girardi",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "humorvitreo",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "georgiabueno",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "humorvitreo",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "gisele-resende-costa",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "gisele-resende-costa",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "gisele-resende-costa",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "glauco-teixeira",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "glauco-teixeira",
+   "target": "lucas-rechinel",
+   "weight": 1
+  },
+  {
+   "source": "glauco-teixeira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-goncalves",
+   "target": "guilherme-kurten",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-goncalves",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-goncalves",
+   "target": "paulacruz",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-goncalves",
+   "target": "rafael-dutra",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-goncalves",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-goncalves",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "hpizaia",
+   "weight": 5
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "humorvitreo",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "juliano-griebeler",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "karina-floriani",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "murilo-mafra",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "nathalia-camargo",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "rafael-ancara",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "rafael-dutra",
+   "weight": 2
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "raphainoue",
+   "weight": 3
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "renata-schwegler",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "renato-estranho",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-kurten",
+   "target": "zehfernandes",
+   "weight": 7
+  },
+  {
+   "source": "guilherme-nagueva",
+   "target": "irina-serrano",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-nagueva",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "gustavo-nascimento-borges",
+   "target": "hpizaia",
+   "weight": 2
+  },
+  {
+   "source": "gustavo-nascimento-borges",
+   "target": "joao-marcus-andrade-de-souza",
+   "weight": 2
+  },
+  {
+   "source": "gustavo-nascimento-borges",
+   "target": "karina-camacho",
+   "weight": 1
+  },
+  {
+   "source": "gustavo-nascimento-borges",
+   "target": "otavio-pereira-da-silva",
+   "weight": 1
+  },
+  {
+   "source": "gustavo-nascimento-borges",
+   "target": "raphainoue",
+   "weight": 2
+  },
+  {
+   "source": "gustavo-nascimento-borges",
+   "target": "sara-cegantin",
+   "weight": 1
+  },
+  {
+   "source": "gustavo-nascimento-borges",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "gustavo-ramos-marques",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "gustavo-ramos-marques",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "helena-cintra",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "henrique-lindner",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "henrique-lindner",
+   "target": "marines-ribeiro",
+   "weight": 1
+  },
+  {
+   "source": "henrique-lindner",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "henrique-lindner",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "henrique-nardi",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "henrique-nardi",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "henrique-nardi",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "herico-prado-ferreira",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "herico-prado-ferreira",
+   "target": "larissa-bueno-otto",
+   "weight": 1
+  },
+  {
+   "source": "herico-prado-ferreira",
+   "target": "vanessa-eimy-koga",
+   "weight": 1
+  },
+  {
+   "source": "herico-prado-ferreira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "hugo-moura-hulle",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "iosef-fagundes",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "isabela-feltrin-bernardes",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "isabela-nishijima",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "janaina-tazoniero",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "joana-rosella",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "joao-marcus-andrade-de-souza",
+   "weight": 2
+  },
+  {
+   "source": "hpizaia",
+   "target": "jose-fernandes",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "joy-endo-tran",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "julian-boledi",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "juliana-cioffi",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "karin-teodorovicz",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "karina-camacho",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "karina-floriani",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "larissa-bueno-otto",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "leonardo-sandim",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "leoprado",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "leticia-turola",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "liber-paz",
+   "weight": 2
+  },
+  {
+   "source": "hpizaia",
+   "target": "lorrana-scarpioni",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "luan-campos",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "lucas-garcia",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "lucas-rechinel",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "luis-gustavo-p-costenaro",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "luiz-postal",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "luke-garcia",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "maia-ferrari",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "marcel-bely",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "marcos-de-lima",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "marcosbeccari",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "mariane-silvestre",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "marines-ribeiro",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "martim-fernandes",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "mauro-alex",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "maycon-passos-de-melo",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "michelle-santos",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "murilo-mafra",
+   "weight": 4
+  },
+  {
+   "source": "hpizaia",
+   "target": "natan-schafer",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "nelson-balaban",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "olavo-oliveira",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "otavio-pereira-da-silva",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "pagu-senna",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "paulacruz",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "paulo-abreu",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "pedro-de-souza-barbosa",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "pedro-savio",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "pianofuzz-design-studio",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "pyx-motion-design",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "rafael-ancara",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "rafael-marques",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "rahma-projekt",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "ramon-madeira",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "raphael-silveira-de-lavor",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "raphainoue",
+   "weight": 4
+  },
+  {
+   "source": "hpizaia",
+   "target": "renata-ramos",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "renato-estranho",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "renato-faccini",
+   "weight": 3
+  },
+  {
+   "source": "hpizaia",
+   "target": "ricardo-martins",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "rodrigo-gonzatto",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "samuel-bohn",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "sara-cegantin",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "silvia-boriani",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "tarliny-da-silva",
+   "weight": 2
+  },
+  {
+   "source": "hpizaia",
+   "target": "tiago-lopo",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "ulissescs",
+   "weight": 2
+  },
+  {
+   "source": "hpizaia",
+   "target": "vanessa-bornemann",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "vanessa-eimy-koga",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "vanessa-gomes",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "varlei-jose-janei",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "vitor-rosa",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "wagner-regis",
+   "weight": 2
+  },
+  {
+   "source": "hpizaia",
+   "target": "welliton-oliveira",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "yasmine-martins-kato",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "yoshi",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "zeh-fernando",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "zehfernandes",
+   "weight": 13
+  },
+  {
+   "source": "hpizaia",
+   "target": "zenorocha",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "humorvitreo",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "huemerson-leal",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "hugo-moura-hulle",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "igor-moura",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "humorvitreo",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "igo",
+   "target": "mario",
+   "weight": 1
+  },
+  {
+   "source": "igo",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "igo",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "ivan-mizanzuk",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "igor-moura",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "iosef-fagundes",
+   "target": "paulo-abreu",
+   "weight": 1
+  },
+  {
+   "source": "iosef-fagundes",
+   "target": "wagner-regis",
+   "weight": 1
+  },
+  {
+   "source": "iosef-fagundes",
+   "target": "welliton-oliveira",
+   "weight": 1
+  },
+  {
+   "source": "iosef-fagundes",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "irina-serrano",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "isabela-feltrin-bernardes",
+   "target": "joy-endo-tran",
+   "weight": 1
+  },
+  {
+   "source": "isabela-feltrin-bernardes",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "isabela-feltrin-bernardes",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "isabela-nishijima",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "jairo-souza",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "marcosbeccari",
+   "weight": 2
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "vanessa-bornemann",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "zamiliano",
+   "weight": 1
+  },
+  {
+   "source": "ivan-mizanzuk",
+   "target": "zehfernandes",
+   "weight": 3
+  },
+  {
+   "source": "jairo-souza",
+   "target": "julio-teodoro",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "jairo-souza",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "janaina-tazoniero",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "jande-farias",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "joana-rosella",
+   "target": "jose-fernandes",
+   "weight": 1
+  },
+  {
+   "source": "joana-rosella",
+   "target": "pedro-savio",
+   "weight": 1
+  },
+  {
+   "source": "joana-rosella",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "joao-marcus-andrade-de-souza",
+   "target": "karina-camacho",
+   "weight": 1
+  },
+  {
+   "source": "joao-marcus-andrade-de-souza",
+   "target": "otavio-pereira-da-silva",
+   "weight": 1
+  },
+  {
+   "source": "joao-marcus-andrade-de-souza",
+   "target": "raphainoue",
+   "weight": 2
+  },
+  {
+   "source": "joao-marcus-andrade-de-souza",
+   "target": "sara-cegantin",
+   "weight": 1
+  },
+  {
+   "source": "joao-marcus-andrade-de-souza",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "jonathan-ive",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "jorge-teivelis",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "jose-fernandes",
+   "target": "pedro-savio",
+   "weight": 1
+  },
+  {
+   "source": "jose-fernandes",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "joy-endo-tran",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "joy-endo-tran",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "julian-boledi",
+   "target": "leonardo-sandim",
+   "weight": 1
+  },
+  {
+   "source": "julian-boledi",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "julian-boledi",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "juliana-cioffi",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "juliana-cioffi",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "juliano-griebeler",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "julio-teodoro",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "karim-rashid",
+   "target": "mauromuller",
+   "weight": 1
+  },
+  {
+   "source": "karin-teodorovicz",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "karina-camacho",
+   "target": "otavio-pereira-da-silva",
+   "weight": 1
+  },
+  {
+   "source": "karina-camacho",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "karina-camacho",
+   "target": "sara-cegantin",
+   "weight": 1
+  },
+  {
+   "source": "karina-camacho",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "karina-floriani",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "kira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "larissa-bueno-otto",
+   "target": "vanessa-eimy-koga",
+   "weight": 1
+  },
+  {
+   "source": "larissa-bueno-otto",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "leonardo-sandim",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "leonardo-sandim",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "leoprado",
+   "target": "yasmine-martins-kato",
+   "weight": 1
+  },
+  {
+   "source": "leoprado",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "leticia-turola",
+   "target": "liber-paz",
+   "weight": 1
+  },
+  {
+   "source": "leticia-turola",
+   "target": "lucas-garcia",
+   "weight": 1
+  },
+  {
+   "source": "leticia-turola",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "leticia-turola",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "livia-weyl",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "lucas-garcia",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "renato-faccini",
+   "weight": 2
+  },
+  {
+   "source": "liber-paz",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "yoshi",
+   "weight": 1
+  },
+  {
+   "source": "liber-paz",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "livia-weyl",
+   "target": "marcus-pilleggi",
+   "weight": 1
+  },
+  {
+   "source": "livia-weyl",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "livia-weyl",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "livia-weyl",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "livia-weyl",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "livia-weyl",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "livia-weyl",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "lobo",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "lorrana-scarpioni",
+   "target": "murilo-mafra",
+   "weight": 1
+  },
+  {
+   "source": "lorrana-scarpioni",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "luan-campos",
+   "target": "natan-schafer",
+   "weight": 1
+  },
+  {
+   "source": "luan-campos",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "luan-campos",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "lucas-ed",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "lucas-ed",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "lucas-garcia",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "lucas-garcia",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "lucas-rechinel",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "luigi-colani",
+   "target": "rob-batista",
+   "weight": 1
+  },
+  {
+   "source": "luis-gustavo-p-costenaro",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "luiz-postal",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "luke-garcia",
+   "target": "tiago-lopo",
+   "weight": 1
+  },
+  {
+   "source": "maia-ferrari",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "maia-ferrari",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "marcel-bely",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "marcos-de-lima",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "marcos-de-lima",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "marcosbeccari",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "marcosbeccari",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "marcus-pilleggi",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "marcus-pilleggi",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "marcus-pilleggi",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "marcus-pilleggi",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "marcus-pilleggi",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "marcus-pilleggi",
+   "target": "victor-kebbe",
+   "weight": 2
+  },
+  {
+   "source": "marcus-pilleggi",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "mariana-negreiros",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "mariana-negreiros",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "mariana-negreiros",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "mariana-negreiros",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "mariana-negreiros",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "mariane-silvestre",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "mariane-silvestre",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "marines-ribeiro",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "marines-ribeiro",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "mario",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "mario",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "martim-fernandes",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "martim-fernandes",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "mauro-alex",
+   "target": "ramon-madeira",
+   "weight": 1
+  },
+  {
+   "source": "mauro-alex",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "mauro-alex",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "mauromuller",
+   "target": "nendo-oki-sato",
+   "weight": 1
+  },
+  {
+   "source": "maycon-passos-de-melo",
+   "target": "raphael-silveira-de-lavor",
+   "weight": 1
+  },
+  {
+   "source": "maycon-passos-de-melo",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "michelle-santos",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "michelle-santos",
+   "target": "renata-ramos",
+   "weight": 1
+  },
+  {
+   "source": "michelle-santos",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "murilo-mafra",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "murilo-mafra",
+   "target": "renato-estranho",
+   "weight": 1
+  },
+  {
+   "source": "murilo-mafra",
+   "target": "zehfernandes",
+   "weight": 5
+  },
+  {
+   "source": "natan-schafer",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "natan-schafer",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "nathalia-camargo",
+   "target": "renata-schwegler",
+   "weight": 1
+  },
+  {
+   "source": "nathalia-camargo",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "nelson-balaban",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "nelson-balaban",
+   "target": "vanessa-gomes",
+   "weight": 1
+  },
+  {
+   "source": "nelson-balaban",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "olavo-oliveira",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "olavo-oliveira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "otavio-pereira-da-silva",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "otavio-pereira-da-silva",
+   "target": "sara-cegantin",
+   "weight": 1
+  },
+  {
+   "source": "otavio-pereira-da-silva",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "pagu-senna",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "pagu-senna",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "paulacruz",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "paulacruz",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "paulo-abreu",
+   "target": "wagner-regis",
+   "weight": 1
+  },
+  {
+   "source": "paulo-abreu",
+   "target": "welliton-oliveira",
+   "weight": 1
+  },
+  {
+   "source": "paulo-abreu",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "pedro-de-souza-barbosa",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "pedro-de-souza-barbosa",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "pedro-lima-dagua",
+   "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "pedro-lima-dagua",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "pedro-lima-dagua",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "pedro-lima-dagua",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "pedro-savio",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "rafael-ancara",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "rafael-ancara",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "rafael-dutra",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "rafael-marques",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "rafael-marques",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "rafael-pavarotti",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "rafael-pavarotti",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "rafael-pavarotti",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "rafo-castro",
+   "target": "renato-faccini",
+   "weight": 2
+  },
+  {
+   "source": "ramon-madeira",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "ramon-madeira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "raphael-silveira-de-lavor",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "renata-ramos",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "ricardo-martins",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "rodrigo-gonzatto",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "samuel-bohn",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "sara-cegantin",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "silvia-boriani",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "vanessa-bornemann",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "vanessa-gomes",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "vitor-rosa",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "zehfernandes",
+   "weight": 4
+  },
+  {
+   "source": "renata-ramos",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "renata-schwegler",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "renato-estranho",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "renato-faccini",
+   "target": "zehfernandes",
+   "weight": 3
+  },
+  {
+   "source": "ricardo-martins",
+   "target": "silvia-boriani",
+   "weight": 1
+  },
+  {
+   "source": "ricardo-martins",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "rodrigo-gonzatto",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "samuel-bohn",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "sara-cegantin",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "scarlet-rodrigues",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "silvia-boriani",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "stefane-correa",
+   "target": "tiago-r-rossmann",
+   "weight": 1
+  },
+  {
+   "source": "stefane-correa",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "tarliny-da-silva",
+   "target": "varlei-jose-janei",
+   "weight": 1
+  },
+  {
+   "source": "tarliny-da-silva",
+   "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "tiago-r-rossmann",
+   "target": "victor-kebbe",
+   "weight": 1
+  },
+  {
+   "source": "ulissescs",
+   "target": "wagner-regis",
+   "weight": 1
+  },
+  {
+   "source": "ulissescs",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "vanessa-bornemann",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "vanessa-eimy-koga",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "vanessa-gomes",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "varlei-jose-janei",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "victor-kebbe",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "vitor-rosa",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "wagner-regis",
+   "target": "welliton-oliveira",
+   "weight": 1
+  },
+  {
+   "source": "wagner-regis",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "welliton-oliveira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "yasmine-martins-kato",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "zamiliano",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "zeh-fernando",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "zeh-fernando",
+   "target": "zenorocha",
+   "weight": 1
+  },
+  {
+   "source": "zehfernandes",
+   "target": "zenorocha",
+   "weight": 1
+  }
+ ]
+}
