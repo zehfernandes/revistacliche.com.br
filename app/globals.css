@@ -280,38 +280,18 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .facts dd { margin: 6px 0 0; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
 .about-section { margin-top: 112px; scroll-margin-top: calc(var(--header) + 24px); }
 .about-section > h2 { margin: 0 0 40px; font-size: 12px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
-.timeline { --pad: 36px; list-style: none; margin: 0; padding: 0; text-align: left; }
-.timeline > li { display: grid; grid-template-columns: 148px 1fr; gap: 0 28px; }
-.year-head { align-self: start; padding-bottom: 40px; }
-.timeline .year { margin: 0; font-size: 64px; font-weight: 700; line-height: 0.8; letter-spacing: -0.04em; font-variant-numeric: tabular-nums; }
-.spark { display: flex; align-items: flex-end; gap: 3px; height: 32px; margin-top: 18px; }
-.spark i { flex: 1; min-height: 1px; background: #cfcfcf; transition: background 0.15s; }
-.spark i:hover { background: var(--fg); }
-.timeline .count { display: block; margin-top: 8px; font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
-/* one continuous rail: each year's list carries its own stretch of the line */
-.events { list-style: none; margin: 0; padding: 2px 0 64px var(--pad); border-left: 1px solid var(--line); }
-.timeline > li:last-child .events { padding-bottom: 0; }
-.events > li { position: relative; padding-bottom: 32px; }
-.events > li::before { content: ""; position: absolute; left: calc(-1 * var(--pad) - 5px); top: 3px; width: 9px; height: 9px; border: 1.5px solid var(--fg); background: var(--bg); }
-.events > li[data-kind="revista"]::before { left: calc(-1 * var(--pad) - 8px); top: 0; width: 15px; height: 15px; background: var(--yellow); }
-.events .when { display: flex; align-items: center; gap: 10px; font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; line-height: 15px; }
-.events .tag { padding: 2px 6px; border-radius: 2px; background: var(--pill); font-size: 10px; font-weight: 600; letter-spacing: 0.1em; line-height: 1.2; color: var(--muted); }
-.events [data-kind="revista"] .tag { background: var(--fg); color: var(--yellow); }
-.events [data-kind="premio"] .tag { background: var(--yellow); color: #111; }
-.events p { margin: 8px 0 0; font-family: var(--serif), serif; font-size: 19px; line-height: 1.45; color: var(--text); text-wrap: pretty; }
-.events p a { text-decoration: underline; text-decoration-color: var(--line); text-decoration-thickness: 2px; text-underline-offset: 3px; transition: text-decoration-color 0.15s; }
-.events p a:hover { text-decoration-color: var(--yellow); }
-/* the printed issues get a card: cover on paper */
-.issue { display: grid; grid-template-columns: 104px 1fr; gap: 20px; align-items: center; margin-top: 12px; padding: 16px; border-radius: 4px; background: var(--soft); transition: background 0.2s; }
-.issue:hover { background: #ebebeb; }
-.issue img, .issue-ph { display: grid; place-items: center; width: 104px; aspect-ratio: 1; object-fit: cover; border-radius: 2px; box-shadow: 0 1px 2px rgb(0 0 0 / 0.1), 0 10px 20px -8px rgb(0 0 0 / 0.35); }
-.issue-ph { background: var(--soft); color: var(--muted); font-size: 32px; font-weight: 700; letter-spacing: -0.03em; }
-.issue b { display: inline; font-size: 30px; font-weight: 700; line-height: 1; letter-spacing: -0.03em; }
-.issue em { margin-left: 10px; font-family: var(--serif), serif; font-size: 20px; color: var(--text); }
-.issue-text { display: block; margin-top: 8px; font-family: var(--serif), serif; font-size: 17px; line-height: 1.45; color: var(--text); text-wrap: pretty; }
+/* timeline: a lean two-column table, year then what happened */
+.timeline { list-style: none; margin: 0; padding: 0; text-align: left; }
+.timeline > li { display: grid; grid-template-columns: 120px 1fr; gap: 0 28px; padding-bottom: 36px; }
+.timeline .year { margin: 0; font-size: 19px; font-weight: 400; line-height: 1.45; font-variant-numeric: tabular-nums; }
+.timeline p { margin: 0 0 20px; font-size: 19px; line-height: 1.45; color: var(--muted); text-wrap: pretty; }
+.timeline p a { text-decoration: underline; text-decoration-color: var(--line); text-decoration-thickness: 2px; text-underline-offset: 3px; transition: text-decoration-color 0.15s; }
+.timeline p a:hover { text-decoration-color: var(--yellow); }
+.timeline .star { color: var(--muted); font-size: 0.7em; vertical-align: 0.1em; }
 .about-covers { list-style: none; margin: 0; padding: 0; display: flex; justify-content: center; gap: 32px; }
 .about-covers a { display: grid; gap: 10px; width: min(220px, 42vw); font-size: 13px; color: var(--muted); }
 .about-covers img { display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 2px; box-shadow: 0 1px 2px rgb(0 0 0 / 0.08), 0 14px 32px -8px rgb(0 0 0 / 0.25); transition: translate 0.3s cubic-bezier(0.2, 0.8, 0.2, 1); }
+.issue-ph { display: grid; place-items: center; aspect-ratio: 1; border-radius: 2px; background: var(--soft); color: var(--muted); font-weight: 700; letter-spacing: -0.03em; }
 .about-covers .issue-ph { width: 100%; font-size: 72px; }
 .about-covers a:hover img { translate: 0 -6px; }
 .about-end { margin: 72px 0 0; font-family: var(--serif), serif; font-size: 24px; line-height: 1.4; }
@@ -374,14 +354,8 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   .facts div:nth-child(n + 3) { border-top: 1px solid var(--line); }
   .facts dt { font-size: 36px; }
   .about-section { margin-top: 80px; }
-  .timeline { --pad: 24px; }
-  .timeline > li { grid-template-columns: 1fr; }
-  .year-head { display: grid; grid-template-columns: auto 1fr; align-items: end; gap: 4px 20px; padding: 0 0 20px; }
-  .year-head .spark { margin: 0; }
-  .year-head .count { grid-column: 2; margin: 0; }
-  .timeline .year { font-size: 48px; grid-row: span 2; }
-  .issue { grid-template-columns: 72px 1fr; gap: 14px; padding: 12px; }
-  .issue img, .issue-ph { width: 72px; }
+  .timeline > li { grid-template-columns: 56px 1fr; gap: 0 16px; }
+  .timeline .year, .timeline p { font-size: 17px; }
   .about-covers { flex-wrap: wrap; gap: 24px 16px; } /* 42vw covers: two per row */
   /* spreads stack vertically: each one keeps its facing pages side by side, half the width each */
   .content:has(> .spreads) { padding-bottom: 140px; }
