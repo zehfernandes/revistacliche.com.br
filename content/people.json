@@ -26,6 +26,32 @@
   ]
  },
  {
+  "name": "Adrielly Francine Sato",
+  "slug": "adrielly-francine-sato",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Pictogramas Zoomp",
+    "path": "/volumes/n1/#14"
+   }
+  ]
+ },
+ {
+  "name": "Alexander Kutzke",
+  "slug": "alexander-kutzke",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "SIE N Design",
+    "path": "/volumes/n1/#7"
+   }
+  ]
+ },
+ {
   "name": "Alexandre Palacio dos Santos",
   "slug": "alexandre-palacio-dos-santos",
   "roles": [
@@ -259,6 +285,19 @@
    {
     "title": "Por que muitas vezes o design é subordinado à publicidade?",
     "path": "/volumes/n4/#18"
+   }
+  ]
+ },
+ {
+  "name": "Andre Figueiredo Muller",
+  "slug": "andre-figueiredo-muller",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Reservoir Birds",
+    "path": "/volumes/n1/#11"
    }
   ]
  },
@@ -604,6 +643,19 @@
   ]
  },
  {
+  "name": "Bruna Fujie",
+  "slug": "bruna-fujie",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Geri’s Game",
+    "path": "/volumes/n1/#6"
+   }
+  ]
+ },
+ {
   "name": "Carlos Bauer",
   "slug": "carlosbauer",
   "roles": [
@@ -626,6 +678,10 @@
    {
     "title": "White Rabbit & Araçá Azul",
     "path": "/2012/02/white-rabbit-araca-azul/"
+   },
+   {
+    "title": "Sustentabilidade: e eu com isso?",
+    "path": "/volumes/n1/#10"
    },
    {
     "title": "Postcards from the Future",
@@ -716,6 +772,14 @@
    "revista"
   ],
   "items": [
+   {
+    "title": "Trivial",
+    "path": "/volumes/n1/#15"
+   },
+   {
+    "title": "Poty Lazzarotto",
+    "path": "/volumes/n1/#16"
+   },
    {
     "title": "Moda e contracultura",
     "path": "/volumes/n2/#8"
@@ -1032,6 +1096,19 @@
   ]
  },
  {
+  "name": "Diego Mafioletti",
+  "slug": "diego-mafioletti",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "CBRM 03",
+    "path": "/volumes/n1/#12"
+   }
+  ]
+ },
+ {
   "name": "Diego Silvério",
   "slug": "diegosilverio",
   "roles": [
@@ -1268,6 +1345,10 @@
   ],
   "items": [
    {
+    "title": "CBRM 03",
+    "path": "/volumes/n1/#12"
+   },
+   {
     "title": "Design generalista?",
     "path": "/volumes/n2/#23"
    }
@@ -1417,6 +1498,19 @@
   ]
  },
  {
+  "name": "Felipe Saito",
+  "slug": "felipe-saito",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "CBRM 03",
+    "path": "/volumes/n1/#12"
+   }
+  ]
+ },
+ {
   "name": "Fernanda Almeida",
   "slug": "fernanda-almeida",
   "roles": [
@@ -1491,6 +1585,19 @@
    {
     "title": "O que é pixel?",
     "path": "/volumes/n4/#15"
+   }
+  ]
+ },
+ {
+  "name": "Francine Tomaselli",
+  "slug": "francine-tomaselli",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Pontilismo",
+    "path": "/volumes/n1/#7"
    }
   ]
  },
@@ -1674,6 +1781,19 @@
   ]
  },
  {
+  "name": "Guilherme Gonçalves Santos",
+  "slug": "guilherme-goncalves-santos",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "SIE N Design",
+    "path": "/volumes/n1/#7"
+   }
+  ]
+ },
+ {
   "name": "Guilherme Kurten",
   "slug": "guilherme-kurten",
   "roles": [
@@ -1716,6 +1836,10 @@
    {
     "title": "Clichecast#02 - Design e o esporte bretão",
     "path": "/2012/12/clichecast02/"
+   },
+   {
+    "title": "iPod psicodélico",
+    "path": "/volumes/n1/#11"
    },
    {
     "title": "Revista Cliche N3",
@@ -2159,6 +2283,10 @@
     "path": "/2012/11/clichecast-problemas-zumbis/"
    },
    {
+    "title": "Revista Cliche N1",
+    "path": "/volumes/n1/"
+   },
+   {
     "title": "Revista Cliche N2",
     "path": "/volumes/n2/"
    },
@@ -2191,6 +2319,23 @@
    {
     "title": "Revista Cliche N3",
     "path": "/volumes/n3/"
+   }
+  ]
+ },
+ {
+  "name": "Iara Cavalcanti Reis",
+  "slug": "iara-cavalcanti-reis",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Editorial",
+    "path": "/volumes/n1/#3"
+   },
+   {
+    "title": "Poty Lazzarotto",
+    "path": "/volumes/n1/#16"
    }
   ]
  },
@@ -2348,6 +2493,10 @@
    "revista"
   ],
   "items": [
+   {
+    "title": "Fotografias",
+    "path": "/volumes/n1/#12"
+   },
    {
     "title": "Falha",
     "path": "/volumes/n2/#16"
@@ -2553,6 +2702,19 @@
   ]
  },
  {
+  "name": "Júlia Nascimento",
+  "slug": "julia-nascimento",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Trivial",
+    "path": "/volumes/n1/#15"
+   }
+  ]
+ },
+ {
   "name": "Julian Boledi",
   "slug": "julian-boledi",
   "roles": [
@@ -2614,6 +2776,10 @@
    {
     "title": "Semioticamente falando - Parte I",
     "path": "/2012/06/semioticamente-falando/"
+   },
+   {
+    "title": "Roda de bicicleta",
+    "path": "/volumes/n1/#10"
    },
    {
     "title": "Revista Cliche N3",
@@ -2709,6 +2875,19 @@
    {
     "title": "Samba",
     "path": "/volumes/n2/#19"
+   }
+  ]
+ },
+ {
+  "name": "Leandro Medeira de Oliveira",
+  "slug": "leandro-medeira-de-oliveira",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Ilustrações",
+    "path": "/volumes/n1/#14"
    }
   ]
  },
@@ -2864,6 +3043,19 @@
   ]
  },
  {
+  "name": "Lucas Almeida de Carvalho",
+  "slug": "lucas-almeida-de-carvalho",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "SIE N Design",
+    "path": "/volumes/n1/#7"
+   }
+  ]
+ },
+ {
   "name": "Lucas Ed",
   "slug": "lucas-ed",
   "roles": [
@@ -2951,6 +3143,19 @@
    {
     "title": "Try Again",
     "path": "/volumes/n2/#13"
+   }
+  ]
+ },
+ {
+  "name": "Luiza Berté",
+  "slug": "luiza-berte",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "CBRM 03",
+    "path": "/volumes/n1/#12"
    }
   ]
  },
@@ -3736,6 +3941,19 @@
   ]
  },
  {
+  "name": "Paulo Zanoni",
+  "slug": "paulo-zanoni",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "SIE N Design",
+    "path": "/volumes/n1/#7"
+   }
+  ]
+ },
+ {
   "name": "Pedro de Souza Barbosa",
   "slug": "pedro-de-souza-barbosa",
   "roles": [
@@ -3758,6 +3976,19 @@
    {
     "title": "Revista Cliche N3",
     "path": "/volumes/n3/"
+   }
+  ]
+ },
+ {
+  "name": "Pedro Luz",
+  "slug": "pedro-luz",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Expression SGI",
+    "path": "/volumes/n1/#9"
    }
   ]
  },
@@ -3879,6 +4110,19 @@
    {
     "title": "Revista Cliche N3",
     "path": "/volumes/n3/"
+   }
+  ]
+ },
+ {
+  "name": "Rafaeli Mazzarolo",
+  "slug": "rafaeli-mazzarolo",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Trivial",
+    "path": "/volumes/n1/#15"
    }
   ]
  },
@@ -4051,12 +4295,17 @@
   "name": "Renata Schwegler",
   "slug": "renata-schwegler",
   "roles": [
-   "participante"
+   "participante",
+   "revista"
   ],
   "items": [
    {
     "title": "Clichecast#54 - Ixxxxquenta",
     "path": "/2015/11/clichecast54-ixxxxquenta/"
+   },
+   {
+    "title": "Zeta",
+    "path": "/volumes/n1/#6"
    }
   ]
  },
@@ -4239,10 +4488,24 @@
   ]
  },
  {
+  "name": "Rodrigo Guinski",
+  "slug": "rodrigo-guinski",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Lagoa Zumbi",
+    "path": "/volumes/n1/#13"
+   }
+  ]
+ },
+ {
   "name": "Rodrigo Janz",
   "slug": "rodrigojanz",
   "roles": [
-   "autor"
+   "autor",
+   "revista"
   ],
   "items": [
    {
@@ -4272,6 +4535,10 @@
    {
     "title": "Quando o marginal ensina design",
     "path": "/2012/02/quando-o-marginal-ensina-design/"
+   },
+   {
+    "title": "SIE N Design",
+    "path": "/volumes/n1/#7"
    }
   ]
  },
@@ -4285,6 +4552,19 @@
    {
     "title": "Roman e Erwan Bouroullec",
     "path": "/2012/07/roman-e-erwan-bouroullec/"
+   }
+  ]
+ },
+ {
+  "name": "Samara Seganfredo",
+  "slug": "samara-seganfredo",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Stop Wars",
+    "path": "/volumes/n1/#8"
    }
   ]
  },
@@ -4433,6 +4713,10 @@
   ],
   "items": [
    {
+    "title": "Capa",
+    "path": "/volumes/n1/#1"
+   },
+   {
     "title": "Generalista ou especialista?",
     "path": "/volumes/n4/#10"
    }
@@ -4487,6 +4771,19 @@
    {
     "title": "Curvi",
     "path": "/volumes/n2/#17"
+   }
+  ]
+ },
+ {
+  "name": "Thiago Deconto Vieira",
+  "slug": "thiago-deconto-vieira",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Aldacius Quadrate",
+    "path": "/volumes/n1/#8"
    }
   ]
  },
@@ -4726,6 +5023,10 @@
    {
     "title": "ClicheCast - Problemas Zumbis",
     "path": "/2012/11/clichecast-problemas-zumbis/"
+   },
+   {
+    "title": "Revista Cliche N1",
+    "path": "/volumes/n1/"
    },
    {
     "title": "Revista Cliche N2",
@@ -4981,6 +5282,19 @@
    {
     "title": "Banqueta TX5",
     "path": "/volumes/n4/#34"
+   }
+  ]
+ },
+ {
+  "name": "Vivian Padilha",
+  "slug": "vivian-padilha",
+  "roles": [
+   "revista"
+  ],
+  "items": [
+   {
+    "title": "Dossiê",
+    "path": "/volumes/n1/#9"
    }
   ]
  },
@@ -5532,6 +5846,10 @@
    {
     "title": "ClicheCast - Problemas Zumbis",
     "path": "/2012/11/clichecast-problemas-zumbis/"
+   },
+   {
+    "title": "Revista Cliche N1",
+    "path": "/volumes/n1/"
    },
    {
     "title": "Revista Cliche N2",

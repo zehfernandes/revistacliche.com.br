@@ -1,5 +1,494 @@
 [
  {
+  "id": 901001,
+  "path": "/volumes/n1/#1",
+  "slug": "n1-p1",
+  "title": "Capa",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Silvia Boriani",
+   "slug": "silvia-boriani"
+  },
+  "series": [
+   "Revista N1"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-01.jpg",
+  "excerpt": "CLICHÊ nº 01 R$ 2,00",
+  "sections": [],
+  "html": "",
+  "people": [
+   "silvia-boriani"
+  ]
+ },
+ {
+  "id": 901004,
+  "path": "/volumes/n1/#3",
+  "slug": "n1-p4",
+  "title": "Editorial",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Iara Cavalcanti Reis",
+   "slug": "iara-cavalcanti-reis"
+  },
+  "series": [
+   "Revista N1"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-04.jpg",
+  "excerpt": "Editorial Procurar o começo da Clichê é passar por muitos bares, rascunhos e conversas de três estudantes de design incomodados. Incomodados a ponto de fazer uma revista que melhorasse a comunicação interna dos…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "iara-cavalcanti-reis"
+  ]
+ },
+ {
+  "id": 901010,
+  "path": "/volumes/n1/#6",
+  "slug": "n1-p10",
+  "title": "Geri’s Game",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Bruna Fujie",
+   "slug": "bruna-fujie"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-10.jpg",
+  "excerpt": "PORTFÓLIO Bruna Fujie bruna.fujie@gmail.com Projeto Geri’s Game Ilustração monocromática utilizando lápis de cor com referência ao curta-metragem da Pixar “Geri’s Game” desenvolvida para a disciplina de teoria e prática…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "bruna-fujie"
+  ]
+ },
+ {
+  "id": 901011,
+  "path": "/volumes/n1/#6",
+  "slug": "n1-p11",
+  "title": "Zeta",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Renata Schwegler",
+   "slug": "renata-schwegler"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-11.jpg",
+  "excerpt": "11 Renata Schwegler renataschwegler@gmail.com O projeto zeta foi desenvolvido na disciplina de metodologia do projeto de design para participar do concurso da tok stok. O tema era móveis empilháveis. Foram feitas…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "renata-schwegler"
+  ]
+ },
+ {
+  "id": 901012,
+  "path": "/volumes/n1/#7",
+  "slug": "n1-p12",
+  "title": "Pontilismo",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Francine Tomaselli",
+   "slug": "francine-tomaselli"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-12.jpg",
+  "excerpt": "12 Francine Tomaselli www.flickr.com/photos/frantomaselli Projeto de Pontilismo desenvolvido para a matéria de Elementos Plásticos Bidimensionais. Toda a imagem foi feita somente com pequenos pontos de caneta nanquim…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "francine-tomaselli"
+  ]
+ },
+ {
+  "id": 901013,
+  "path": "/volumes/n1/#7",
+  "slug": "n1-p13",
+  "title": "SIE N Design",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Alexander Kutzke",
+   "slug": "alexander-kutzke"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-13.jpg",
+  "excerpt": "13 Alexander Kutzke, Guilherme Gonçalves Santos, Lucas Almeida de Carvalho, Paulo Zanoni e Rodrigo Janz. www.sagwee.com Projeto Sistema de Informação do Encontrista, ou SIE N Design, sistema informatizado para…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "alexander-kutzke",
+   "guilherme-goncalves-santos",
+   "lucas-almeida-de-carvalho",
+   "paulo-zanoni",
+   "rodrigojanz"
+  ]
+ },
+ {
+  "id": 901014,
+  "path": "/volumes/n1/#8",
+  "slug": "n1-p14",
+  "title": "Aldacius Quadrate",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Thiago Deconto Vieira",
+   "slug": "thiago-deconto-vieira"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-14.jpg",
+  "excerpt": "14 Thiago Deconto Vieira thiagodeconto@gmail.com Projeto Aldacius Quadrate, Móvel Modular Empilhável criado para o Concuso Tok&Stok com o tema empilhar. Desenvolvido para acondicionar livros, cd´s, documentos, sem…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "thiago-deconto-vieira"
+  ]
+ },
+ {
+  "id": 901015,
+  "path": "/volumes/n1/#8",
+  "slug": "n1-p15",
+  "title": "Stop Wars",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Samara Seganfredo",
+   "slug": "samara-seganfredo"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-15.jpg",
+  "excerpt": "15 Samara Seganfredo www.meadiciona. com/samarones Projeto acadêmico desenvolvido para a matéria de teoria do design. Releitura de propagandas na linguagem das artes gráficas, tratando Stop wars - Arte Nouveau.",
+  "sections": [],
+  "html": "",
+  "people": [
+   "samara-seganfredo"
+  ]
+ },
+ {
+  "id": 901016,
+  "path": "/volumes/n1/#9",
+  "slug": "n1-p16",
+  "title": "Dossiê",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Vivian Padilha",
+   "slug": "vivian-padilha"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-16.jpg",
+  "excerpt": "16 Vivian Padilha www.flickr.com/photos/vivianpadilha/ O Projeto Dossiê ilutra as preferências pessoais da estudante, como hobbies e personalidade, através da diagramação, cores e imagens.",
+  "sections": [],
+  "html": "",
+  "people": [
+   "vivian-padilha"
+  ]
+ },
+ {
+  "id": 901017,
+  "path": "/volumes/n1/#9",
+  "slug": "n1-p17",
+  "title": "Expression SGI",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Pedro Luz",
+   "slug": "pedro-luz"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-17.jpg",
+  "excerpt": "17 Pedro Luz www.dropedrops.com.br Projeto desenvolvido para o site da empresa de design Expression SGI. As ilustrações foram criadas para o menu, onde cada ícone foi pensado de acordo com a seção da página. O layout do…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "pedro-luz"
+  ]
+ },
+ {
+  "id": 901018,
+  "path": "/volumes/n1/#10",
+  "slug": "n1-p18",
+  "title": "Roda de bicicleta",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Julio Teodoro",
+   "slug": "julio-teodoro"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-18.jpg",
+  "excerpt": "Julio Teodoro Costa Trabalho inspirado na obra de Vik Muniz, sob orientação da professora Simone Landal, de História da Arte Brasileira. A proposta era obter novos significados para uma imagem, utilizando um material…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "julio-teodoro"
+  ]
+ },
+ {
+  "id": 901018,
+  "path": "/volumes/n1/#10",
+  "slug": "n1-p18",
+  "title": "Sustentabilidade: e eu com isso?",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Carlos Bauer",
+   "slug": "carlosbauer"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-18.jpg",
+  "excerpt": "Julio Teodoro Costa Trabalho inspirado na obra de Vik Muniz, sob orientação da professora Simone Landal, de História da Arte Brasileira. A proposta era obter novos significados para uma imagem, utilizando um material…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "carlosbauer"
+  ]
+ },
+ {
+  "id": 901020,
+  "path": "/volumes/n1/#11",
+  "slug": "n1-p20",
+  "title": "iPod psicodélico",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Guilherme Kurten",
+   "slug": "guilherme-kurten"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-20.jpg",
+  "excerpt": "20 Guilherme Kürten www.kurten.carbonmade.com Trabalho acadêmico que consistia em produzir um anúncio de um produto atual, utilizando os elementos característicos de algum dos movimentos do design estudados até então. O…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "guilherme-kurten"
+  ]
+ },
+ {
+  "id": 901021,
+  "path": "/volumes/n1/#11",
+  "slug": "n1-p21",
+  "title": "Reservoir Birds",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Andre Figueiredo Muller",
+   "slug": "andre-figueiredo-muller"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-21.jpg",
+  "excerpt": "21 Andre Figueiredo Muller andrefm.design@gmail.com Ilustração feita para o concurso de estampas do site camiseteria.com.br. O tema é uma brincadeira com o filme “Cães de aluguel”, onde cada personagem do filme possuía…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "andre-figueiredo-muller"
+  ]
+ },
+ {
+  "id": 901022,
+  "path": "/volumes/n1/#12",
+  "slug": "n1-p22",
+  "title": "CBRM 03",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Eryk Gurski",
+   "slug": "eryk-gurski"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-22.jpg",
+  "excerpt": "22 Érik Gurski Lima, Diego Mafioletti, Felipe Saito ,Luiza Berté www.utfpracing.com Projeto CBRM 03 De acordo com estudos de ergonomia, segurança e design da carenagem, desenvolveu-se pela equipe TPR o projeto de um…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "diego-mafioletti",
+   "eryk-gurski",
+   "felipe-saito",
+   "luiza-berte"
+  ]
+ },
+ {
+  "id": 901023,
+  "path": "/volumes/n1/#12",
+  "slug": "n1-p23",
+  "title": "Fotografias",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Isabela Nishijima",
+   "slug": "isabela-nishijima"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-23.jpg",
+  "excerpt": "23 Isabela Nishijima www.cargocollective.com/isanishi Fotografias feitas com câmera analógica, explorando diferentes temas.",
+  "sections": [],
+  "html": "",
+  "people": [
+   "isabela-nishijima"
+  ]
+ },
+ {
+  "id": 901024,
+  "path": "/volumes/n1/#13",
+  "slug": "n1-p24",
+  "title": "Lagoa Zumbi",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Rodrigo Guinski",
+   "slug": "rodrigo-guinski"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-24.jpg",
+  "excerpt": "24",
+  "sections": [],
+  "html": "",
+  "people": [
+   "rodrigo-guinski"
+  ]
+ },
+ {
+  "id": 901026,
+  "path": "/volumes/n1/#14",
+  "slug": "n1-p26",
+  "title": "Ilustrações",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Leandro Medeira de Oliveira",
+   "slug": "leandro-medeira-de-oliveira"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-26.jpg",
+  "excerpt": "26 Leandro Medeira de Oliveira flickr.com/photos/leconico Eu comecei esse trabalho nas aulas teóricas do UTFPR, e resolvi fazer experiências com linhas que se cruzavam e formavam formas, em sua maioria abstratas, e que…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "leandro-medeira-de-oliveira"
+  ]
+ },
+ {
+  "id": 901027,
+  "path": "/volumes/n1/#14",
+  "slug": "n1-p27",
+  "title": "Pictogramas Zoomp",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Adrielly Francine Sato",
+   "slug": "adrielly-francine-sato"
+  },
+  "series": [
+   "Revista N1",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-27.jpg",
+  "excerpt": "27 Adrielly Francine Sato www.adris.com.br Os pictogramas para banheiro foram o resultado de um projeto acadêmico que consistia na criação de um sistema visual para a marca Zoomp. O Toy Art foi utilizado como…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "adrielly-francine-sato"
+  ]
+ },
+ {
+  "id": 901028,
+  "path": "/volumes/n1/#15",
+  "slug": "n1-p28",
+  "title": "Trivial",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Júlia Nascimento",
+   "slug": "julia-nascimento"
+  },
+  "series": [
+   "Revista N1"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-28.jpg",
+  "excerpt": "TRIVIAL Música – Banda Felixbravo Curitiba é repleta de opções para quem está em busca de entretenimento e boa música. Formada há mais de seis anos, a banda Felixbravo é um exemplo da produção cultural da cidade.…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "carolina-gritten",
+   "julia-nascimento",
+   "rafaeli-mazzarolo"
+  ]
+ },
+ {
+  "id": 901030,
+  "path": "/volumes/n1/#16",
+  "slug": "n1-p30",
+  "title": "Poty Lazzarotto",
+  "date": "2010-11-01",
+  "author": {
+   "name": "Carolina Gritten",
+   "slug": "carolina-gritten"
+  },
+  "series": [
+   "Revista N1"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n1/p-30.jpg",
+  "excerpt": "IN / OUT Foto: Carolina Gritten Curitiba, fim de tarde. Pessoas apressadas, perdidas na velocidade da rotina. É preciso ver alguém com uma câmera apontada em uma direção qualquer para perceber que ali está uma imagem…",
+  "sections": [],
+  "html": "",
+  "people": [
+   "carolina-gritten",
+   "iara-cavalcanti-reis"
+  ]
+ },
+ {
   "id": 902001,
   "path": "/volumes/n2/#1",
   "slug": "n2-p1",

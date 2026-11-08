@@ -8,16 +8,207 @@
   "team: the coordinators from the masthead; every credited person of the issue links to them in the graph.",
   "search: false ends the piece before it without becoming a result (tables of contents).",
   "date: when the issue came out, for its pieces in the archive tables (the day is a convention: the 1st of the month it launched). Without it they show the year.",
-  "N3 has no PDF yet: contents without pages, and people lists the contributors of the whole issue."
+  "N3 has no PDF yet: contents without pages, and people lists the contributors of the whole issue.",
+  "N1: pages 2, 3 and 32 are ads. Portfolio pieces are titled by their project; Érik Gurski Lima is Eryk Gurski (N2), Julio Teodoro Costa is Julio Teodoro (N3)."
  ],
  "volumes": [
   {
    "n": "n1",
    "label": "N1",
    "year": "2010",
-   "pages": 16,
-   "cover": null,
-   "contents": []
+   "date": "2010-11-01",
+   "pages": 32,
+   "team": [
+    "Hugo Pizaia",
+    "Thiago Grossmann",
+    "Zeh Fernandes"
+   ],
+   "scans": "/volumes/n1",
+   "cover": "/volumes/n1-cover.avif",
+   "contents": [
+    {
+     "page": 1,
+     "title": "Capa",
+     "illustrators": [
+      "Silvia Boriani"
+     ]
+    },
+    {
+     "page": 4,
+     "title": "Editorial",
+     "authors": [
+      "Iara Cavalcanti Reis"
+     ]
+    },
+    {
+     "page": 6,
+     "title": "Entrevista: Vinicius Iubel"
+    },
+    {
+     "page": 10,
+     "title": "Portfólio"
+    },
+    {
+     "page": 10,
+     "title": "Geri’s Game",
+     "authors": [
+      "Bruna Fujie"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 11,
+     "title": "Zeta",
+     "authors": [
+      "Renata Schwegler"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 12,
+     "title": "Pontilismo",
+     "authors": [
+      "Francine Tomaselli"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 13,
+     "title": "SIE N Design",
+     "authors": [
+      "Alexander Kutzke",
+      "Guilherme Gonçalves Santos",
+      "Lucas Almeida de Carvalho",
+      "Paulo Zanoni",
+      "Rodrigo Janz"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 14,
+     "title": "Aldacius Quadrate",
+     "authors": [
+      "Thiago Deconto Vieira"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 15,
+     "title": "Stop Wars",
+     "authors": [
+      "Samara Seganfredo"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 16,
+     "title": "Dossiê",
+     "authors": [
+      "Vivian Padilha"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 17,
+     "title": "Expression SGI",
+     "authors": [
+      "Pedro Luz"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 18,
+     "title": "Roda de bicicleta",
+     "authors": [
+      "Julio Teodoro"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 18,
+     "title": "Sustentabilidade: e eu com isso?",
+     "authors": [
+      "Carlos Bauer"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 20,
+     "title": "iPod psicodélico",
+     "authors": [
+      "Guilherme Kurten"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 21,
+     "title": "Reservoir Birds",
+     "authors": [
+      "Andre Figueiredo Muller"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 22,
+     "title": "CBRM 03",
+     "authors": [
+      "Eryk Gurski",
+      "Diego Mafioletti",
+      "Felipe Saito",
+      "Luiza Berté"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 23,
+     "title": "Fotografias",
+     "authors": [
+      "Isabela Nishijima"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 24,
+     "title": "Lagoa Zumbi",
+     "authors": [
+      "Rodrigo Guinski"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 26,
+     "title": "Ilustrações",
+     "authors": [
+      "Leandro Medeira de Oliveira"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 27,
+     "title": "Pictogramas Zoomp",
+     "authors": [
+      "Adrielly Francine Sato"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 28,
+     "title": "Trivial",
+     "authors": [
+      "Júlia Nascimento",
+      "Carolina Gritten",
+      "Rafaeli Mazzarolo"
+     ]
+    },
+    {
+     "page": 30,
+     "title": "Poty Lazzarotto",
+     "authors": [
+      "Carolina Gritten",
+      "Iara Cavalcanti Reis"
+     ]
+    }
+   ]
   },
   {
    "n": "n2",
