@@ -8,7 +8,7 @@ export const metadata = { title: "Palestras", ...seo("/talks/", { title: "Palest
 export default function Talks() {
   return (
     <Frame crumbs={[{ label: "Palestras" }]} active="Palestras">
-      <div className="archive volumes talks">
+      <div className="archive">
         <div className="archive-head">
           <p>
             <strong>Palestras e oficinas</strong> · {talks.length} apresentações em eventos de design
@@ -17,28 +17,27 @@ export default function Talks() {
         <table>
           <thead>
             <tr>
-              <th className="cover-col" aria-hidden />
-              <th>Título</th>
-              <th className="theme">Onde</th>
-              <th className="pages">Slides</th>
+              <th className="thumb" aria-hidden />
+              <th className="title">Título</th>
+              <th className="wide">Tipo</th>
+              <th className="wide where">Onde</th>
+              <th className="ep">Slides</th>
               <th className="date">Ano</th>
             </tr>
           </thead>
           <tbody>
             {talks.map((t) => (
               <tr key={t.slug}>
-                <td className="cover-col">
-                  {t.slides ? <img className="cover" src={`/talks/${t.slug}/p-01-sm.jpg`} alt="" width={600} height={450} decoding="async" /> : <span className="cover">?</span>}
-                </td>
+                <td className="thumb">{t.slides > 0 && <img src={`/talks/${t.slug}/p-01-sm.jpg`} alt="" loading="lazy" />}</td>
                 <td className="title">
                   <Link href={`/talks/${t.slug}/`} className="row-link">
                     {t.title}
                   </Link>
-                  <span className="kind muted">{t.kind}</span>
                 </td>
-                <td className="theme muted">{t.where ?? "—"}</td>
-                <td className="pages muted num">{t.slides || "?"}</td>
-                <td className="date muted num">{t.year}</td>
+                <td className="muted wide">{t.kind}</td>
+                <td className="muted wide where">{t.where ?? "—"}</td>
+                <td className="muted num ep">{t.slides || "—"}</td>
+                <td className="muted num date">{t.year}</td>
               </tr>
             ))}
           </tbody>

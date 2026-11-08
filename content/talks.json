@@ -3,16 +3,18 @@
   "The talks and workshops, from the 2012–2014 Palestras&Oficinas Dropbox archive. Edit by hand.",
   "where/year come from the posts linked in post, the dated folders of the archive and the deck files' dates.",
   "Slides: python3 -I scripts/extract_talks.py <slug>=<pdf> ..., then set slides to the count it prints. No slides = no PDF in the archive.",
-  "Decks used: Design Colaborativo/ENEdesign.pdf, Imitação vs Inspiração/imitacao.pdf, Case Cliche/cliche-press.pdf, Metodologia vs Insight/metodologia-vs-insight*.pdf, Agora voce ve.../agoravcve.pdf, PPP/PPP.pdf, Design e a mágica do imaginário/R Bauru/design coisa de outro mundo.pdf."
+  "Webdesign para não webdesigners: webdesign.pdf, exported in 2026 from the archive's InDesign file (the archive has no PDF of it); it carries the post-it notes added to the slides.",
+  "Decks used: Design Colaborativo/ENEdesign.pdf, Imitação vs Inspiração/imitacao.pdf, Case Cliche/cliche-press.pdf, Metodologia vs Insight/metodologia-vs-insight*.pdf, Agora voce ve.../agoravcve.pdf, PPP/PPP.pdf, Design e a mágica do imaginário/R Bauru/design coisa de outro mundo.pdf.",
+  "Oldest first, by first presentation."
  ],
  "talks": [
-  { "slug": "design-coisa-de-outro-mundo", "title": "Design, coisa de outro mundo", "kind": "Palestra", "where": "R Bauru", "year": "2014", "slides": 108 },
-  { "slug": "ppp", "title": "PPP: protótipos profissionais no papel", "kind": "Oficina", "where": "Algures, N Goiânia, R Bauru, R Sul", "year": "2014", "slides": 44 },
-  { "slug": "agora-voce-ve", "title": "Agora você vê, agora você não vê", "kind": "Palestra", "where": "R Porto Alegre", "year": "2013", "slides": 31, "post": "/2013/10/disseminando-conhecimentos-nos-eventos-de-design/" },
-  { "slug": "metodologia-vs-insight", "title": "Metodologia vs. insight", "kind": "Palestra", "where": "Charneira, PUC-PR", "year": "2013", "slides": 37, "post": "/2013/10/disseminando-conhecimentos-nos-eventos-de-design/" },
-  { "slug": "case-cliche", "title": "Case Cliche", "kind": "Palestra", "where": null, "year": "2013", "slides": 46 },
+  { "slug": "design-colaborativo", "title": "Design colaborativo", "kind": "Palestra", "where": "IFSC, Charneira, FAE, ENEdesign", "year": "2012–2013", "slides": 57, "post": "/2012/10/encontros-de-design-e-a-cliche/" },
+  { "slug": "webdesign-para-nao-webdesigners", "title": "Webdesign para não webdesigners", "kind": "Oficina", "where": "R Curitiba, SAD, UFPR, R Porto Alegre", "year": "2012–2013", "slides": 127, "post": "/2012/10/encontros-de-design-e-a-cliche/" },
   { "slug": "inspiracao-vs-imitacao", "title": "Inspiração vs. imitação", "kind": "Palestra", "where": "Singura", "year": "2013", "slides": 45 },
-  { "slug": "webdesign-para-nao-webdesigners", "title": "Webdesign para não webdesigners", "kind": "Oficina", "where": "R Curitiba, SAD, UFPR, R Porto Alegre", "year": "2012–2013", "slides": 0, "post": "/2012/10/encontros-de-design-e-a-cliche/" },
-  { "slug": "design-colaborativo", "title": "Design colaborativo", "kind": "Palestra", "where": "IFSC, Charneira, FAE, ENEdesign", "year": "2012–2013", "slides": 57, "post": "/2012/10/encontros-de-design-e-a-cliche/" }
+  { "slug": "case-cliche", "title": "Case Cliche", "kind": "Palestra", "where": null, "year": "2013", "slides": 46 },
+  { "slug": "metodologia-vs-insight", "title": "Metodologia vs. insight", "kind": "Palestra", "where": "Charneira, PUC-PR", "year": "2013", "slides": 37, "post": "/2013/10/disseminando-conhecimentos-nos-eventos-de-design/" },
+  { "slug": "agora-voce-ve", "title": "Agora você vê, agora você não vê", "kind": "Palestra", "where": "R Porto Alegre", "year": "2013", "slides": 31, "post": "/2013/10/disseminando-conhecimentos-nos-eventos-de-design/" },
+  { "slug": "ppp", "title": "PPP: protótipos profissionais no papel", "kind": "Oficina", "where": "Algures, N Goiânia, R Bauru, R Sul", "year": "2014", "slides": 44 },
+  { "slug": "design-coisa-de-outro-mundo", "title": "Design, coisa de outro mundo", "kind": "Palestra", "where": "R Bauru", "year": "2014", "slides": 108 }
  ]
 }
