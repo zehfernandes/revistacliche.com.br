@@ -1,3 +1,4 @@
+import { seo, plain } from "@/lib/seo";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allItems, people, rows, volumeItems } from "@/lib/content";
@@ -13,7 +14,12 @@ const find = async (params: Promise<{ slug: string }>) => {
 };
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
-  return { title: (await find(params)).name };
+  const p = await find(params);
+  const n = p.items.length;
+  return {
+    title: p.name,
+    ...seo(`/people/${p.slug}/`, { title: p.name, description: plain(`${p.name} na Revista Cliche: ${n} ${n === 1 ? "referência" : "referências"} no arquivo (${p.items.slice(0, 3).map((i) => i.title).join("; ")}).`, 300), type: "profile" }),
+  };
 }
 
 export default async function Person({ params }: { params: Promise<{ slug: string }> }) {

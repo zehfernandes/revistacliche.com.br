@@ -1,3 +1,4 @@
+import { seo } from "@/lib/seo";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { talks } from "@/lib/content";
@@ -9,7 +10,16 @@ export const generateStaticParams = () => talks.map((t) => ({ slug: t.slug }));
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  return { title: talks.find((t) => t.slug === slug)?.title };
+  const t = talks.find((t) => t.slug === slug)!;
+  return {
+    title: t.title,
+    ...seo(`/talks/${t.slug}/`, {
+      title: t.title,
+      description: `${t.kind} da Revista Cliche${t.where ? ` em ${t.where}` : ""}, ${t.year}.${t.slides ? ` ${t.slides} slides.` : ""}`,
+      ...(t.slides && { image: `/talks/${t.slug}/p-01.jpg` }),
+    }),
+    ...(!t.slides && { robots: { index: false } }), // no deck yet: nothing to index
+  };
 }
 
 export default async function Talk({ params }: { params: Promise<{ slug: string }> }) {

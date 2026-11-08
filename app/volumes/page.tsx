@@ -1,8 +1,9 @@
+import { seo } from "@/lib/seo";
 import Link from "next/link";
 import { volumes } from "@/lib/content";
 import { Frame } from "@/components/Frame";
 
-export const metadata = { title: "Volumes" };
+export const metadata = { title: "Volumes", ...seo("/volumes/", { title: "Volumes", description: `As ${volumes.length} edições impressas da Revista Cliche (2010–2015), digitalizadas página a página.` }) };
 
 export default function Volumes() {
   return (

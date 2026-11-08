@@ -1,8 +1,9 @@
+import { seo } from "@/lib/seo";
 import Link from "next/link";
 import { talks } from "@/lib/content";
 import { Frame } from "@/components/Frame";
 
-export const metadata = { title: "Palestras" };
+export const metadata = { title: "Palestras", ...seo("/talks/", { title: "Palestras e oficinas", description: `As ${talks.length} palestras e oficinas da Revista Cliche em eventos de design (2012–2014), com os slides.` }) };
 
 export default function Talks() {
   return (

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allItems, articles, podcasts, formatDate, type Item } from "@/lib/content";
 import { Frame } from "@/components/Frame";
+import { seo, plain, JsonLd, SITE, abs } from "@/lib/seo";
 
 type Params = { year: string; month: string; slug: string };
 
@@ -20,7 +21,42 @@ const find = async (params: Promise<Params>) => {
 
 export async function generateMetadata({ params }: { params: Promise<Params> }) {
   const it = await find(params);
-  return { title: it.title, description: it.excerpt };
+  return {
+    title: it.title,
+    ...seo(it.path, {
+      title: it.title,
+      description: plain(it.excerpt),
+      image: it.cover,
+      type: "article",
+      publishedTime: it.date,
+      authors: [it.author.name],
+      tags: [...it.series, ...it.filtro],
+    }),
+  };
+}
+
+function jsonLd(it: Item, isPodcast: boolean) {
+  const person = (p: { name: string; slug: string }) => ({ "@type": "Person", name: p.name, ...(p.slug && { url: `${SITE}/people/${p.slug}/` }) });
+  return {
+    "@context": "https://schema.org",
+    "@type": isPodcast ? "PodcastEpisode" : "Article",
+    ...(isPodcast ? { name: it.title } : { headline: it.title }),
+    description: plain(it.excerpt, 300),
+    url: abs(it.path),
+    datePublished: it.date,
+    inLanguage: "pt-BR",
+    author: person(it.author),
+    ...(it.cover && { image: abs(it.cover) }),
+    ...(it.series.length + it.filtro.length && { keywords: [...it.series, ...it.filtro].join(", ") }),
+    ...(isPodcast
+      ? {
+          ...(it.episode && { episodeNumber: it.episode }),
+          partOfSeries: { "@type": "PodcastSeries", name: "ClicheCast", url: `${SITE}/podcasts/` },
+          ...(it.audio && { associatedMedia: { "@type": "MediaObject", contentUrl: abs(it.audio) } }),
+          ...(it.participants?.length && { actor: it.participants.map(person) }),
+        }
+      : { publisher: { "@type": "Organization", name: "Projeto Cliche", url: SITE } }),
+  };
 }
 
 // excerpts are usually the first paragraph; only show a deck when it's a real summary
@@ -69,6 +105,7 @@ export default async function Entry({ params }: { params: Promise<Params> }) {
       active={isPodcast ? "Podcasts" : "Artigos"}
       focus={it.people}
     >
+      <JsonLd data={jsonLd(it, isPodcast)} />
       <article className="entry" data-pagefind-body data-pagefind-filter={`group:${isPodcast ? "ClicheCast" : "Artigos"}`} data-pagefind-meta={`note:${it.date.slice(0, 4)}`}>
         <header className="entry-head">
           {kicker && <p className="kicker">{kicker}</p>}

@@ -2,7 +2,7 @@ import { Suspense } from "react";
 import { Frame } from "@/components/Frame";
 import { Results } from "./Results";
 
-export const metadata = { title: "Busca" };
+export const metadata = { title: "Busca", robots: { index: false } };
 
 export default function Search() {
   return (
