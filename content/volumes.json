@@ -8,7 +8,7 @@
   "team: the coordinators from the masthead; every credited person of the issue links to them in the graph.",
   "search: false ends the piece before it without becoming a result (tables of contents).",
   "date: when the issue came out, for its pieces in the archive tables (the day is a convention: the 1st of the month it launched). Without it they show the year.",
-  "N3 has no PDF yet: contents without pages, and people lists the contributors of the whole issue.",
+  "N3 has no PDF: its scans are photos flattened by python3 scripts/extract_photos.py n3 <photos dir> (corners in scripts/n3-photos.json). The spread printed as pp. 70–71 wasn't photographed, so from the Referências on, pages run two behind the printed numbers (Referências is p. 70 here, 72 in print). Credits from the index and the pages: the photographer and the models of Soluções Razoáveis go under illustrators; pp. 52 and 66 are ads; revisão (Marina Werneck, Patrícia Talhari) stays off, like the other issues' masthead beyond the coordinators. Bruna Carmona Bonifácio is Bruna Bonifacio and Luís Gustavo Padilha Costenaro is Luís Gustavo P. Costenaro (archive spellings); Ivan Alexander Mizanzuk, Julio Teodoro Costa, Marcus Vinícius Pilleggi and Victor Hugo Kebbe use theirs.",
   "N1: pages 2, 3 and 32 are ads. Portfolio pieces are titled by their project; Érik Gurski Lima is Eryk Gurski (N2), Julio Teodoro Costa is Julio Teodoro (N3)."
  ],
  "volumes": [
@@ -441,56 +441,317 @@
    "label": "N3",
    "year": "2012",
    "theme": "Cidades do Imaginário",
-   "pages": 16,
+   "pages": 74,
+   "scans": "/volumes/n3",
+   "photos": true,
    "cover": "/volumes/n3-cover.avif",
-   "people": [
-    "Tiago R. Rossmann",
-    "Mariana Negreiros",
-    "Humorvítreo",
-    "Ivan Mizanzuk",
-    "André Talhari",
-    "Georgia Graichen Bueno",
-    "Julio Teodoro",
-    "Pedro Lima D’Água",
-    "Liber Paz",
-    "Marcus Pilleggi",
-    "Victor Kebbe",
-    "Lívia Weyl",
-    "Huemerson Leal",
-    "Igor Moura",
-    "Giovanni Girardi",
-    "Jairo Souza",
-    "Guilherme Kurten",
-    "Felipe Protski",
-    "Rafael Pavarotti",
-    "Stefane Correa",
-    "Évora Andrade",
-    "Bicicleta Sem Freio"
+   "team": [
+    "Hugo Pizaia",
+    "Zeh Fernandes",
+    "Thiago Grossmann",
+    "Raphael T. Inoue"
    ],
    "contents": [
     {
-     "title": "Moda para um mundo de recursos escassos"
+     "page": 1,
+     "title": "Capa",
+     "illustrators": [
+      "Bicicleta Sem Freio"
+     ]
     },
     {
-     "title": "Asilo Arkham, de Grant Morrison e Dave McKean"
+     "page": 4,
+     "title": "Editorial",
+     "authors": [
+      "Thiago Grossmann"
+     ]
     },
     {
-     "title": "Design italiano dos anos 80 e o imaginário social"
+     "page": 5,
+     "title": "Índice",
+     "search": false
     },
     {
-     "title": "SteamPunk, DieselPunk e CyberPunk"
+     "page": 6,
+     "title": "Cidades do Imaginário",
+     "illustrators": [
+      "Felipe Protski"
+     ]
     },
     {
-     "title": "Zumbis"
+     "page": 8,
+     "title": "Apocalipse Sustentável",
+     "authors": [
+      "Tiago R. Rossmann"
+     ],
+     "illustrators": [
+      "Huemerson Leal"
+     ]
     },
     {
-     "title": "Robôs"
+     "page": 14,
+     "title": "Soluções Razoáveis Para Um Mundo Escasso",
+     "authors": [
+      "Mariana Negreiros"
+     ],
+     "illustrators": [
+      "Rafael Pavarotti",
+      "Stefane Correa",
+      "Évora Andrade"
+     ]
     },
     {
-     "title": "Contos futuristas"
+     "page": 20,
+     "title": "Cidades Transparentes",
+     "authors": [
+      "Humorvítreo"
+     ]
     },
     {
-     "title": "Um mundo sem publicidade"
+     "page": 22,
+     "title": "O Design Contra o Mal: Tragédia em 4 Atos",
+     "authors": [
+      "Ivan Mizanzuk"
+     ],
+     "illustrators": [
+      "Igor Moura"
+     ]
+    },
+    {
+     "page": 28,
+     "title": "Quando e Por Quê",
+     "authors": [
+      "André Talhari"
+     ],
+     "illustrators": [
+      "Giovanni Girardi"
+     ]
+    },
+    {
+     "page": 30,
+     "title": "O Imaginário no Design Italiano",
+     "authors": [
+      "Georgia Graichen Bueno"
+     ]
+    },
+    {
+     "page": 32,
+     "title": "Criatividade e Mundos Imaginários",
+     "authors": [
+      "Julio Teodoro"
+     ],
+     "illustrators": [
+      "Jairo Souza"
+     ]
+    },
+    {
+     "page": 34,
+     "title": "Histórias em Quadrinhos e Cidades Imaginárias",
+     "authors": [
+      "Pedro Lima D’Água"
+     ],
+     "illustrators": [
+      "Guilherme Kurten"
+     ]
+    },
+    {
+     "page": 36,
+     "title": "Era uma casa muito engraçada…",
+     "authors": [
+      "Liber Paz"
+     ]
+    },
+    {
+     "page": 40,
+     "title": "O Outro Mundo de Sempre",
+     "authors": [
+      "Marcus Pilleggi",
+      "Victor Kebbe"
+     ],
+     "illustrators": [
+      "Thiago Grossmann"
+     ]
+    },
+    {
+     "page": 44,
+     "title": "Realidade Imaginada",
+     "authors": [
+      "Lívia Weyl"
+     ]
+    },
+    {
+     "page": 47,
+     "title": "Portfólio"
+    },
+    {
+     "page": 48,
+     "title": "Menino Ruivo e os Vegetais",
+     "authors": [
+      "Mariane Silvestre"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 49,
+     "title": "Embalando Música",
+     "authors": [
+      "Adriano Almeida Gonçalves"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 50,
+     "title": "Coleção Tangram",
+     "authors": [
+      "Ana Luisa Ferreira"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 51,
+     "title": "Design Teatral",
+     "authors": [
+      "Ana Paula de Assis Ulrich"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 53,
+     "title": "DSGN&ILSTD",
+     "authors": [
+      "Maikel Morais"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 54,
+     "title": "ArqDesign",
+     "authors": [
+      "Bruna Bonifacio"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 55,
+     "title": "Triângulos à Disposição",
+     "authors": [
+      "Beto Nunes"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 56,
+     "title": "Perspectiva Poética",
+     "authors": [
+      "Carlos Bauer"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 57,
+     "title": "Projeto Aut*",
+     "authors": [
+      "André Hasse Urel",
+      "Débora Moreno Ferreira Luz"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 58,
+     "title": "SampaMob",
+     "authors": [
+      "Felipe Fazion de Mello Galante",
+      "Felipe Rosa Pinto",
+      "Midori Shibutani",
+      "Letícia Cotrim Anguito",
+      "Lilian Sayuri Fonseca"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 59,
+     "title": "Bauru Possibilidades",
+     "authors": [
+      "Guilherme Fernandes Hass"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 60,
+     "title": "Editora Ideiativa",
+     "authors": [
+      "Jéssica V. Silva"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 61,
+     "title": "Ipês do Brasil",
+     "authors": [
+      "Jéssica Elaine Pereira de Aquino"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 62,
+     "title": "Godfinger",
+     "authors": [
+      "Anest"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 63,
+     "title": "Rumo à Copa",
+     "authors": [
+      "Leonardo Ramos"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 64,
+     "title": "Death From Above",
+     "authors": [
+      "Luís Gustavo P. Costenaro"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 65,
+     "title": "Niviere",
+     "authors": [
+      "Manuela Gortz",
+      "Nataly de Siqueira"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 67,
+     "title": "Toy’nClass",
+     "authors": [
+      "Marciele Copat"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 68,
+     "title": "Malas Acopláveis de Transporte em Conjunto",
+     "authors": [
+      "Silvana Heck Pauli"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 69,
+     "title": "Coleção de Novela Negra",
+     "authors": [
+      "Alice Dornelles Hetzel"
+     ],
+     "section": "Portfólio"
+    },
+    {
+     "page": 70,
+     "title": "Referências: Cidades Imaginárias"
     }
    ]
   },

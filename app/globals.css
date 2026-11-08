@@ -332,6 +332,8 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .spread:nth-child(even) { rotate: 0.2deg; }
 .spread:nth-child(odd) { rotate: -0.15deg; }
 .spread::after { content: ""; position: absolute; inset: 0; pointer-events: none; mix-blend-mode: multiply; background: var(--grain), var(--falloff); }
+.photos .page.scan { filter: none; } /* photographed issues (N3) have the real thing */
+.photos .spread::after { content: none; }
 
 @media (max-width: 760px) {
   :root { --gutter: 16px; }

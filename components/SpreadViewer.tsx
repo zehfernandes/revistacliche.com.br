@@ -4,7 +4,8 @@ import { useEffect, useRef } from "react";
 
 // Two pages per spread, free horizontal scroll, #n in the URL tracks the visible spread.
 // slides: one 4:3 talk slide per spread, full width when stacked on phones.
-export function SpreadViewer({ spreads, scans, hires, slides }: { spreads: number[][]; scans?: string; hires?: boolean; slides?: boolean }) {
+// photos: the scans are photos, which already have real grain, light and colour, so no scan look on top.
+export function SpreadViewer({ spreads, scans, hires, slides, photos }: { spreads: number[][]; scans?: string; hires?: boolean; slides?: boolean; photos?: boolean }) {
   const track = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -38,7 +39,7 @@ export function SpreadViewer({ spreads, scans, hires, slides }: { spreads: numbe
   }, []);
 
   return (
-    <div className={slides ? "spreads slides" : "spreads"} ref={track}>
+    <div className={["spreads", slides && "slides", photos && "photos"].filter(Boolean).join(" ")} ref={track}>
       {spreads.map((pages, i) => (
         <section className="spread" key={i} id={String(i + 1)} data-n={i + 1}>
           {pages.map((p) => {

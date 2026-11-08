@@ -1046,6 +1046,790 @@
   ]
  },
  {
+  "id": 903001,
+  "path": "/volumes/n3/#1",
+  "slug": "n3-p1",
+  "title": "Capa",
+  "date": "2012",
+  "author": {
+   "name": "Bicicleta Sem Freio",
+   "slug": "bicicleta-sem-freio"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-01.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "bicicleta-sem-freio"
+  ]
+ },
+ {
+  "id": 903004,
+  "path": "/volumes/n3/#3",
+  "slug": "n3-p4",
+  "title": "Editorial",
+  "date": "2012",
+  "author": {
+   "name": "Thiago Grossmann",
+   "slug": "garlig"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-04.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "garlig"
+  ]
+ },
+ {
+  "id": 903006,
+  "path": "/volumes/n3/#4",
+  "slug": "n3-p6",
+  "title": "Cidades do Imaginário",
+  "date": "2012",
+  "author": {
+   "name": "Felipe Protski",
+   "slug": "felipe-protski"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-06.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "felipe-protski"
+  ]
+ },
+ {
+  "id": 903008,
+  "path": "/volumes/n3/#5",
+  "slug": "n3-p8",
+  "title": "Apocalipse Sustentável",
+  "date": "2012",
+  "author": {
+   "name": "Tiago R. Rossmann",
+   "slug": "tiago-r-rossmann"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-08.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "huemerson-leal",
+   "tiago-r-rossmann"
+  ]
+ },
+ {
+  "id": 903014,
+  "path": "/volumes/n3/#8",
+  "slug": "n3-p14",
+  "title": "Soluções Razoáveis Para Um Mundo Escasso",
+  "date": "2012",
+  "author": {
+   "name": "Mariana Negreiros",
+   "slug": "mariana-negreiros"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-14.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "evora-andrade",
+   "mariana-negreiros",
+   "rafael-pavarotti",
+   "stefane-correa"
+  ]
+ },
+ {
+  "id": 903020,
+  "path": "/volumes/n3/#11",
+  "slug": "n3-p20",
+  "title": "Cidades Transparentes",
+  "date": "2012",
+  "author": {
+   "name": "Humorvítreo",
+   "slug": "humorvitreo"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-20.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "humorvitreo"
+  ]
+ },
+ {
+  "id": 903022,
+  "path": "/volumes/n3/#12",
+  "slug": "n3-p22",
+  "title": "O Design Contra o Mal: Tragédia em 4 Atos",
+  "date": "2012",
+  "author": {
+   "name": "Ivan Mizanzuk",
+   "slug": "ivan-mizanzuk"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-22.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "igor-moura",
+   "ivan-mizanzuk"
+  ]
+ },
+ {
+  "id": 903028,
+  "path": "/volumes/n3/#15",
+  "slug": "n3-p28",
+  "title": "Quando e Por Quê",
+  "date": "2012",
+  "author": {
+   "name": "André Talhari",
+   "slug": "andre-talhari"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-28.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "andre-talhari",
+   "giovanni-girardi"
+  ]
+ },
+ {
+  "id": 903030,
+  "path": "/volumes/n3/#16",
+  "slug": "n3-p30",
+  "title": "O Imaginário no Design Italiano",
+  "date": "2012",
+  "author": {
+   "name": "Georgia Graichen Bueno",
+   "slug": "georgiabueno"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-30.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "georgiabueno"
+  ]
+ },
+ {
+  "id": 903032,
+  "path": "/volumes/n3/#17",
+  "slug": "n3-p32",
+  "title": "Criatividade e Mundos Imaginários",
+  "date": "2012",
+  "author": {
+   "name": "Julio Teodoro",
+   "slug": "julio-teodoro"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-32.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "jairo-souza",
+   "julio-teodoro"
+  ]
+ },
+ {
+  "id": 903034,
+  "path": "/volumes/n3/#18",
+  "slug": "n3-p34",
+  "title": "Histórias em Quadrinhos e Cidades Imaginárias",
+  "date": "2012",
+  "author": {
+   "name": "Pedro Lima D’Água",
+   "slug": "pedro-lima-dagua"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-34.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "guilherme-kurten",
+   "pedro-lima-dagua"
+  ]
+ },
+ {
+  "id": 903036,
+  "path": "/volumes/n3/#19",
+  "slug": "n3-p36",
+  "title": "Era uma casa muito engraçada…",
+  "date": "2012",
+  "author": {
+   "name": "Liber Paz",
+   "slug": "liber-paz"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-36.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "liber-paz"
+  ]
+ },
+ {
+  "id": 903040,
+  "path": "/volumes/n3/#21",
+  "slug": "n3-p40",
+  "title": "O Outro Mundo de Sempre",
+  "date": "2012",
+  "author": {
+   "name": "Marcus Pilleggi",
+   "slug": "marcus-pilleggi"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-40.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "garlig",
+   "marcus-pilleggi",
+   "victor-kebbe"
+  ]
+ },
+ {
+  "id": 903044,
+  "path": "/volumes/n3/#23",
+  "slug": "n3-p44",
+  "title": "Realidade Imaginada",
+  "date": "2012",
+  "author": {
+   "name": "Lívia Weyl",
+   "slug": "livia-weyl"
+  },
+  "series": [
+   "Revista N3"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-44.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "livia-weyl"
+  ]
+ },
+ {
+  "id": 903048,
+  "path": "/volumes/n3/#25",
+  "slug": "n3-p48",
+  "title": "Menino Ruivo e os Vegetais",
+  "date": "2012",
+  "author": {
+   "name": "Mariane Silvestre",
+   "slug": "mariane-silvestre"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-48.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "mariane-silvestre"
+  ]
+ },
+ {
+  "id": 903049,
+  "path": "/volumes/n3/#25",
+  "slug": "n3-p49",
+  "title": "Embalando Música",
+  "date": "2012",
+  "author": {
+   "name": "Adriano Almeida Gonçalves",
+   "slug": "adriano-almeida-goncalves"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-49.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "adriano-almeida-goncalves"
+  ]
+ },
+ {
+  "id": 903050,
+  "path": "/volumes/n3/#26",
+  "slug": "n3-p50",
+  "title": "Coleção Tangram",
+  "date": "2012",
+  "author": {
+   "name": "Ana Luisa Ferreira",
+   "slug": "ana-luisa-ferreira"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-50.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "ana-luisa-ferreira"
+  ]
+ },
+ {
+  "id": 903051,
+  "path": "/volumes/n3/#26",
+  "slug": "n3-p51",
+  "title": "Design Teatral",
+  "date": "2012",
+  "author": {
+   "name": "Ana Paula de Assis Ulrich",
+   "slug": "ana-paula-de-assis-ulrich"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-51.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "ana-paula-de-assis-ulrich"
+  ]
+ },
+ {
+  "id": 903053,
+  "path": "/volumes/n3/#27",
+  "slug": "n3-p53",
+  "title": "DSGN&ILSTD",
+  "date": "2012",
+  "author": {
+   "name": "Maikel Morais",
+   "slug": "maikel-morais"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-53.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "maikel-morais"
+  ]
+ },
+ {
+  "id": 903054,
+  "path": "/volumes/n3/#28",
+  "slug": "n3-p54",
+  "title": "ArqDesign",
+  "date": "2012",
+  "author": {
+   "name": "Bruna Bonifacio",
+   "slug": "bruna-bonifacio"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-54.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "bruna-bonifacio"
+  ]
+ },
+ {
+  "id": 903055,
+  "path": "/volumes/n3/#28",
+  "slug": "n3-p55",
+  "title": "Triângulos à Disposição",
+  "date": "2012",
+  "author": {
+   "name": "Beto Nunes",
+   "slug": "beto-nunes"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-55.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "beto-nunes"
+  ]
+ },
+ {
+  "id": 903056,
+  "path": "/volumes/n3/#29",
+  "slug": "n3-p56",
+  "title": "Perspectiva Poética",
+  "date": "2012",
+  "author": {
+   "name": "Carlos Bauer",
+   "slug": "carlosbauer"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-56.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "carlosbauer"
+  ]
+ },
+ {
+  "id": 903057,
+  "path": "/volumes/n3/#29",
+  "slug": "n3-p57",
+  "title": "Projeto Aut*",
+  "date": "2012",
+  "author": {
+   "name": "André Hasse Urel",
+   "slug": "andre-hasse-urel"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-57.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "andre-hasse-urel",
+   "debora-moreno-ferreira-luz"
+  ]
+ },
+ {
+  "id": 903058,
+  "path": "/volumes/n3/#30",
+  "slug": "n3-p58",
+  "title": "SampaMob",
+  "date": "2012",
+  "author": {
+   "name": "Felipe Fazion de Mello Galante",
+   "slug": "felipe-fazion-de-mello-galante"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-58.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "felipe-fazion-de-mello-galante",
+   "felipe-rosa-pinto",
+   "leticia-cotrim-anguito",
+   "lilian-sayuri-fonseca",
+   "midori-shibutani"
+  ]
+ },
+ {
+  "id": 903059,
+  "path": "/volumes/n3/#30",
+  "slug": "n3-p59",
+  "title": "Bauru Possibilidades",
+  "date": "2012",
+  "author": {
+   "name": "Guilherme Fernandes Hass",
+   "slug": "guilherme-fernandes-hass"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-59.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "guilherme-fernandes-hass"
+  ]
+ },
+ {
+  "id": 903060,
+  "path": "/volumes/n3/#31",
+  "slug": "n3-p60",
+  "title": "Editora Ideiativa",
+  "date": "2012",
+  "author": {
+   "name": "Jéssica V. Silva",
+   "slug": "jessica-v-silva"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-60.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "jessica-v-silva"
+  ]
+ },
+ {
+  "id": 903061,
+  "path": "/volumes/n3/#31",
+  "slug": "n3-p61",
+  "title": "Ipês do Brasil",
+  "date": "2012",
+  "author": {
+   "name": "Jéssica Elaine Pereira de Aquino",
+   "slug": "jessica-elaine-pereira-de-aquino"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-61.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "jessica-elaine-pereira-de-aquino"
+  ]
+ },
+ {
+  "id": 903062,
+  "path": "/volumes/n3/#32",
+  "slug": "n3-p62",
+  "title": "Godfinger",
+  "date": "2012",
+  "author": {
+   "name": "Anest",
+   "slug": "anest"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-62.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "anest"
+  ]
+ },
+ {
+  "id": 903063,
+  "path": "/volumes/n3/#32",
+  "slug": "n3-p63",
+  "title": "Rumo à Copa",
+  "date": "2012",
+  "author": {
+   "name": "Leonardo Ramos",
+   "slug": "leonardo-ramos"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-63.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "leonardo-ramos"
+  ]
+ },
+ {
+  "id": 903064,
+  "path": "/volumes/n3/#33",
+  "slug": "n3-p64",
+  "title": "Death From Above",
+  "date": "2012",
+  "author": {
+   "name": "Luís Gustavo P. Costenaro",
+   "slug": "luis-gustavo-p-costenaro"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-64.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "luis-gustavo-p-costenaro"
+  ]
+ },
+ {
+  "id": 903065,
+  "path": "/volumes/n3/#33",
+  "slug": "n3-p65",
+  "title": "Niviere",
+  "date": "2012",
+  "author": {
+   "name": "Manuela Gortz",
+   "slug": "manuela-gortz"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-65.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "manuela-gortz",
+   "nataly-de-siqueira"
+  ]
+ },
+ {
+  "id": 903067,
+  "path": "/volumes/n3/#34",
+  "slug": "n3-p67",
+  "title": "Toy’nClass",
+  "date": "2012",
+  "author": {
+   "name": "Marciele Copat",
+   "slug": "marciele-copat"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-67.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "marciele-copat"
+  ]
+ },
+ {
+  "id": 903068,
+  "path": "/volumes/n3/#35",
+  "slug": "n3-p68",
+  "title": "Malas Acopláveis de Transporte em Conjunto",
+  "date": "2012",
+  "author": {
+   "name": "Silvana Heck Pauli",
+   "slug": "silvana-heck-pauli"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-68.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "silvana-heck-pauli"
+  ]
+ },
+ {
+  "id": 903069,
+  "path": "/volumes/n3/#35",
+  "slug": "n3-p69",
+  "title": "Coleção de Novela Negra",
+  "date": "2012",
+  "author": {
+   "name": "Alice Dornelles Hetzel",
+   "slug": "alice-dornelles-hetzel"
+  },
+  "series": [
+   "Revista N3",
+   "Portfólio"
+  ],
+  "filtro": [],
+  "cover": "/volumes/n3/p-69.jpg",
+  "excerpt": "",
+  "sections": [],
+  "html": "",
+  "people": [
+   "alice-dornelles-hetzel"
+  ]
+ },
+ {
   "id": 904001,
   "path": "/volumes/n4/#1",
   "slug": "n4-p1",

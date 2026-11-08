@@ -35,7 +35,7 @@ export const podcasts = (podcastsJson as Item[]).map((p) => ({ ...p, participant
 export const about = aboutJson;
 export const allItems = [...articles, ...podcasts];
 
-// The printed issues, curated in content/volumes.json; scans and page text come from scripts/extract_pdfs.py.
+// The printed issues, curated in content/volumes.json; scans and page text come from scripts/extract_pdfs.py (N3: photos, scripts/extract_photos.py).
 type Volume = {
   n: string;
   label: string;
@@ -43,6 +43,7 @@ type Volume = {
   theme?: string;
   pages: number;
   scans?: string;
+  photos?: boolean; // scans are photos of the printed issue (scripts/extract_photos.py): no fake scan look
   cover: string | null;
   people?: string[];
   team?: string[];

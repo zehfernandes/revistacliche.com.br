@@ -18,7 +18,7 @@
   {
    "slug": "bruna-bonifacio",
    "name": "Bruna Bonifacio",
-   "count": 45
+   "count": 46
   },
   {
    "slug": "dariojofilly",
@@ -78,7 +78,7 @@
   {
    "slug": "zehfernandes",
    "name": "Zeh Fernandes",
-   "count": 51
+   "count": 52
   },
   {
    "slug": "guiwebster",
@@ -123,7 +123,7 @@
   {
    "slug": "raphainoue",
    "name": "Raphael T. Inoue",
-   "count": 18
+   "count": 19
   },
   {
    "slug": "rob-batista",
@@ -213,7 +213,7 @@
   {
    "slug": "hpizaia",
    "name": "Hugo Pizaia",
-   "count": 34
+   "count": 35
   },
   {
    "slug": "rodrigojanz",
@@ -238,7 +238,7 @@
   {
    "slug": "garlig",
    "name": "Thiago Grossmann",
-   "count": 60
+   "count": 63
   },
   {
    "slug": "tokujin-yoshioka",
@@ -333,7 +333,7 @@
   {
    "slug": "anest",
    "name": "Anest",
-   "count": 1
+   "count": 2
   },
   {
    "slug": "felipe-protski-martins",
@@ -363,7 +363,7 @@
   {
    "slug": "carlosbauer",
    "name": "Carlos Bauer",
-   "count": 6
+   "count": 7
   },
   {
    "slug": "debli",
@@ -883,7 +883,7 @@
   {
    "slug": "luis-gustavo-p-costenaro",
    "name": "Luís Gustavo P. Costenaro",
-   "count": 1
+   "count": 2
   },
   {
    "slug": "luiz-postal",
@@ -986,28 +986,18 @@
    "count": 1
   },
   {
+   "slug": "bicicleta-sem-freio",
+   "name": "Bicicleta Sem Freio",
+   "count": 1
+  },
+  {
+   "slug": "felipe-protski",
+   "name": "Felipe Protski",
+   "count": 1
+  },
+  {
    "slug": "tiago-r-rossmann",
    "name": "Tiago R. Rossmann",
-   "count": 1
-  },
-  {
-   "slug": "mariana-negreiros",
-   "name": "Mariana Negreiros",
-   "count": 1
-  },
-  {
-   "slug": "humorvitreo",
-   "name": "Humorvítreo",
-   "count": 1
-  },
-  {
-   "slug": "pedro-lima-dagua",
-   "name": "Pedro Lima D’Água",
-   "count": 1
-  },
-  {
-   "slug": "livia-weyl",
-   "name": "Lívia Weyl",
    "count": 1
   },
   {
@@ -1016,23 +1006,8 @@
    "count": 1
   },
   {
-   "slug": "igor-moura",
-   "name": "Igor Moura",
-   "count": 1
-  },
-  {
-   "slug": "giovanni-girardi",
-   "name": "Giovanni Girardi",
-   "count": 1
-  },
-  {
-   "slug": "jairo-souza",
-   "name": "Jairo Souza",
-   "count": 2
-  },
-  {
-   "slug": "felipe-protski",
-   "name": "Felipe Protski",
+   "slug": "mariana-negreiros",
+   "name": "Mariana Negreiros",
    "count": 1
   },
   {
@@ -1051,8 +1026,143 @@
    "count": 1
   },
   {
-   "slug": "bicicleta-sem-freio",
-   "name": "Bicicleta Sem Freio",
+   "slug": "humorvitreo",
+   "name": "Humorvítreo",
+   "count": 1
+  },
+  {
+   "slug": "igor-moura",
+   "name": "Igor Moura",
+   "count": 1
+  },
+  {
+   "slug": "giovanni-girardi",
+   "name": "Giovanni Girardi",
+   "count": 1
+  },
+  {
+   "slug": "jairo-souza",
+   "name": "Jairo Souza",
+   "count": 2
+  },
+  {
+   "slug": "pedro-lima-dagua",
+   "name": "Pedro Lima D’Água",
+   "count": 1
+  },
+  {
+   "slug": "livia-weyl",
+   "name": "Lívia Weyl",
+   "count": 1
+  },
+  {
+   "slug": "mariane-silvestre",
+   "name": "Mariane Silvestre",
+   "count": 2
+  },
+  {
+   "slug": "adriano-almeida-goncalves",
+   "name": "Adriano Almeida Gonçalves",
+   "count": 1
+  },
+  {
+   "slug": "ana-luisa-ferreira",
+   "name": "Ana Luisa Ferreira",
+   "count": 1
+  },
+  {
+   "slug": "ana-paula-de-assis-ulrich",
+   "name": "Ana Paula de Assis Ulrich",
+   "count": 1
+  },
+  {
+   "slug": "maikel-morais",
+   "name": "Maikel Morais",
+   "count": 1
+  },
+  {
+   "slug": "beto-nunes",
+   "name": "Beto Nunes",
+   "count": 1
+  },
+  {
+   "slug": "andre-hasse-urel",
+   "name": "André Hasse Urel",
+   "count": 1
+  },
+  {
+   "slug": "debora-moreno-ferreira-luz",
+   "name": "Débora Moreno Ferreira Luz",
+   "count": 1
+  },
+  {
+   "slug": "felipe-fazion-de-mello-galante",
+   "name": "Felipe Fazion de Mello Galante",
+   "count": 1
+  },
+  {
+   "slug": "felipe-rosa-pinto",
+   "name": "Felipe Rosa Pinto",
+   "count": 1
+  },
+  {
+   "slug": "midori-shibutani",
+   "name": "Midori Shibutani",
+   "count": 1
+  },
+  {
+   "slug": "leticia-cotrim-anguito",
+   "name": "Letícia Cotrim Anguito",
+   "count": 1
+  },
+  {
+   "slug": "lilian-sayuri-fonseca",
+   "name": "Lilian Sayuri Fonseca",
+   "count": 1
+  },
+  {
+   "slug": "guilherme-fernandes-hass",
+   "name": "Guilherme Fernandes Hass",
+   "count": 1
+  },
+  {
+   "slug": "jessica-v-silva",
+   "name": "Jéssica V. Silva",
+   "count": 1
+  },
+  {
+   "slug": "jessica-elaine-pereira-de-aquino",
+   "name": "Jéssica Elaine Pereira de Aquino",
+   "count": 1
+  },
+  {
+   "slug": "leonardo-ramos",
+   "name": "Leonardo Ramos",
+   "count": 1
+  },
+  {
+   "slug": "manuela-gortz",
+   "name": "Manuela Gortz",
+   "count": 1
+  },
+  {
+   "slug": "nataly-de-siqueira",
+   "name": "Nataly de Siqueira",
+   "count": 1
+  },
+  {
+   "slug": "marciele-copat",
+   "name": "Marciele Copat",
+   "count": 1
+  },
+  {
+   "slug": "silvana-heck-pauli",
+   "name": "Silvana Heck Pauli",
+   "count": 1
+  },
+  {
+   "slug": "alice-dornelles-hetzel",
+   "name": "Alice Dornelles Hetzel",
    "count": 1
   },
   {
@@ -1108,11 +1218,6 @@
   {
    "slug": "bolivar-escobar",
    "name": "Bolívar Escobar",
-   "count": 1
-  },
-  {
-   "slug": "mariane-silvestre",
-   "name": "Mariane Silvestre",
    "count": 1
   },
   {
@@ -1338,6 +1443,26 @@
    "weight": 1
   },
   {
+   "source": "adriano-almeida-goncalves",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "adriano-almeida-goncalves",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "adriano-almeida-goncalves",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "adriano-almeida-goncalves",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "adrielly-francine-sato",
    "target": "garlig",
    "weight": 1
@@ -1428,6 +1553,26 @@
    "weight": 1
   },
   {
+   "source": "alice-dornelles-hetzel",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "alice-dornelles-hetzel",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "alice-dornelles-hetzel",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "alice-dornelles-hetzel",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "aloisio-magalhaes",
    "target": "raphainoue",
    "weight": 1
@@ -1476,6 +1621,46 @@
    "source": "amandafortes",
    "target": "zehfernandes",
    "weight": 2
+  },
+  {
+   "source": "ana-luisa-ferreira",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "ana-luisa-ferreira",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "ana-luisa-ferreira",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "ana-luisa-ferreira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "ana-paula-de-assis-ulrich",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "ana-paula-de-assis-ulrich",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "ana-paula-de-assis-ulrich",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "ana-paula-de-assis-ulrich",
+   "target": "zehfernandes",
+   "weight": 1
   },
   {
    "source": "ana-paula-vontempski",
@@ -1563,29 +1748,34 @@
    "weight": 1
   },
   {
-   "source": "andre-talhari",
-   "target": "bicicleta-sem-freio",
+   "source": "andre-hasse-urel",
+   "target": "debora-moreno-ferreira-luz",
    "weight": 1
   },
   {
-   "source": "andre-talhari",
-   "target": "evora-andrade",
+   "source": "andre-hasse-urel",
+   "target": "garlig",
    "weight": 1
   },
   {
-   "source": "andre-talhari",
-   "target": "felipe-protski",
+   "source": "andre-hasse-urel",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "andre-hasse-urel",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "andre-hasse-urel",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
    "source": "andre-talhari",
    "target": "garlig",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "georgiabueno",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "andre-talhari",
@@ -1594,92 +1784,27 @@
   },
   {
    "source": "andre-talhari",
-   "target": "guilherme-kurten",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
    "target": "hpizaia",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "huemerson-leal",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "humorvitreo",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "igor-moura",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "liber-paz",
    "weight": 2
   },
   {
    "source": "andre-talhari",
-   "target": "livia-weyl",
+   "target": "liber-paz",
    "weight": 1
   },
   {
    "source": "andre-talhari",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "andre-talhari",
-   "target": "victor-kebbe",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "andre-talhari",
    "target": "yoshi",
+   "weight": 1
+  },
+  {
+   "source": "andre-talhari",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -1724,6 +1849,26 @@
   },
   {
    "source": "andreza-godoi",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "anest",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "anest",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "anest",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "anest",
    "target": "zehfernandes",
    "weight": 1
   },
@@ -1818,103 +1963,43 @@
    "weight": 1
   },
   {
-   "source": "bicicleta-sem-freio",
-   "target": "evora-andrade",
+   "source": "beto-nunes",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "beto-nunes",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "beto-nunes",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "beto-nunes",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
    "source": "bicicleta-sem-freio",
-   "target": "felipe-protski",
+   "target": "garlig",
    "weight": 1
   },
   {
    "source": "bicicleta-sem-freio",
-   "target": "georgiabueno",
+   "target": "hpizaia",
    "weight": 1
   },
   {
    "source": "bicicleta-sem-freio",
-   "target": "giovanni-girardi",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "bicicleta-sem-freio",
-   "target": "guilherme-kurten",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "huemerson-leal",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "humorvitreo",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "igor-moura",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "bicicleta-sem-freio",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -1944,6 +2029,16 @@
   },
   {
    "source": "bruna-bonifacio",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
    "target": "inspiracoes-sensoriais-na-arte",
    "weight": 1
   },
@@ -1960,6 +2055,11 @@
   {
    "source": "bruna-bonifacio",
    "target": "projeto-rapport",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "raphainoue",
    "weight": 1
   },
   {
@@ -1985,6 +2085,11 @@
   {
    "source": "bruna-bonifacio",
    "target": "vlisco",
+   "weight": 1
+  },
+  {
+   "source": "bruna-bonifacio",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -2020,17 +2125,22 @@
   {
    "source": "carlosbauer",
    "target": "garlig",
-   "weight": 2
+   "weight": 3
   },
   {
    "source": "carlosbauer",
    "target": "hpizaia",
-   "weight": 2
+   "weight": 3
+  },
+  {
+   "source": "carlosbauer",
+   "target": "raphainoue",
+   "weight": 1
   },
   {
    "source": "carlosbauer",
    "target": "zehfernandes",
-   "weight": 2
+   "weight": 3
   },
   {
    "source": "carolina-garofani",
@@ -2368,6 +2478,26 @@
    "weight": 1
   },
   {
+   "source": "debora-moreno-ferreira-luz",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "debora-moreno-ferreira-luz",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "debora-moreno-ferreira-luz",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "debora-moreno-ferreira-luz",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "diego-duenhas",
    "target": "garlig",
    "weight": 1
@@ -2674,67 +2804,12 @@
   },
   {
    "source": "evora-andrade",
-   "target": "felipe-protski",
+   "target": "garlig",
    "weight": 1
   },
   {
    "source": "evora-andrade",
-   "target": "georgiabueno",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "giovanni-girardi",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "guilherme-kurten",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "huemerson-leal",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "humorvitreo",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "igor-moura",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "marcus-pilleggi",
+   "target": "hpizaia",
    "weight": 1
   },
   {
@@ -2744,12 +2819,12 @@
   },
   {
    "source": "evora-andrade",
-   "target": "pedro-lima-dagua",
+   "target": "rafael-pavarotti",
    "weight": 1
   },
   {
    "source": "evora-andrade",
-   "target": "rafael-pavarotti",
+   "target": "raphainoue",
    "weight": 1
   },
   {
@@ -2759,12 +2834,7 @@
   },
   {
    "source": "evora-andrade",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "evora-andrade",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -2818,6 +2888,46 @@
    "weight": 1
   },
   {
+   "source": "felipe-fazion-de-mello-galante",
+   "target": "felipe-rosa-pinto",
+   "weight": 1
+  },
+  {
+   "source": "felipe-fazion-de-mello-galante",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "felipe-fazion-de-mello-galante",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "felipe-fazion-de-mello-galante",
+   "target": "leticia-cotrim-anguito",
+   "weight": 1
+  },
+  {
+   "source": "felipe-fazion-de-mello-galante",
+   "target": "lilian-sayuri-fonseca",
+   "weight": 1
+  },
+  {
+   "source": "felipe-fazion-de-mello-galante",
+   "target": "midori-shibutani",
+   "weight": 1
+  },
+  {
+   "source": "felipe-fazion-de-mello-galante",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "felipe-fazion-de-mello-galante",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "felipe-grillo",
    "target": "garlig",
    "weight": 1
@@ -2854,97 +2964,62 @@
   },
   {
    "source": "felipe-protski",
-   "target": "georgiabueno",
+   "target": "garlig",
    "weight": 1
   },
   {
    "source": "felipe-protski",
-   "target": "giovanni-girardi",
+   "target": "hpizaia",
    "weight": 1
   },
   {
    "source": "felipe-protski",
-   "target": "guilherme-kurten",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "felipe-protski",
-   "target": "huemerson-leal",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "humorvitreo",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "igor-moura",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "felipe-protski",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
    "source": "felipe-protski-martins",
    "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "felipe-rosa-pinto",
+   "target": "garlig",
+   "weight": 1
+  },
+  {
+   "source": "felipe-rosa-pinto",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "felipe-rosa-pinto",
+   "target": "leticia-cotrim-anguito",
+   "weight": 1
+  },
+  {
+   "source": "felipe-rosa-pinto",
+   "target": "lilian-sayuri-fonseca",
+   "weight": 1
+  },
+  {
+   "source": "felipe-rosa-pinto",
+   "target": "midori-shibutani",
+   "weight": 1
+  },
+  {
+   "source": "felipe-rosa-pinto",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "felipe-rosa-pinto",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -3085,6 +3160,11 @@
   {
    "source": "garlig",
    "target": "georgiabueno",
+   "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "giovanni-girardi",
    "weight": 1
   },
   {
@@ -3095,6 +3175,11 @@
   {
    "source": "garlig",
    "target": "glauco-teixeira",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "guilherme-fernandes-hass",
    "weight": 1
   },
   {
@@ -3110,7 +3195,7 @@
   {
    "source": "garlig",
    "target": "guilherme-kurten",
-   "weight": 11
+   "weight": 12
   },
   {
    "source": "garlig",
@@ -3149,7 +3234,17 @@
   },
   {
    "source": "garlig",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
    "target": "hugo-moura-hulle",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "humorvitreo",
    "weight": 1
   },
   {
@@ -3160,6 +3255,11 @@
   {
    "source": "garlig",
    "target": "igo",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "igor-moura",
    "weight": 1
   },
   {
@@ -3185,12 +3285,12 @@
   {
    "source": "garlig",
    "target": "ivan-mizanzuk",
-   "weight": 4
+   "weight": 5
   },
   {
    "source": "garlig",
    "target": "jairo-souza",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "garlig",
@@ -3200,6 +3300,16 @@
   {
    "source": "garlig",
    "target": "jande-farias",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "jessica-elaine-pereira-de-aquino",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "jessica-v-silva",
    "weight": 1
   },
   {
@@ -3250,7 +3360,7 @@
   {
    "source": "garlig",
    "target": "julio-teodoro",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "garlig",
@@ -3284,6 +3394,11 @@
   },
   {
    "source": "garlig",
+   "target": "leonardo-ramos",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
    "target": "leonardo-sandim",
    "weight": 1
   },
@@ -3294,13 +3409,28 @@
   },
   {
    "source": "garlig",
+   "target": "leticia-cotrim-anguito",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
    "target": "leticia-turola",
    "weight": 1
   },
   {
    "source": "garlig",
    "target": "liber-paz",
-   "weight": 4
+   "weight": 5
+  },
+  {
+   "source": "garlig",
+   "target": "lilian-sayuri-fonseca",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "livia-weyl",
+   "weight": 1
   },
   {
    "source": "garlig",
@@ -3340,7 +3470,7 @@
   {
    "source": "garlig",
    "target": "luis-gustavo-p-costenaro",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "garlig",
@@ -3364,7 +3494,22 @@
   },
   {
    "source": "garlig",
+   "target": "maikel-morais",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "manuela-gortz",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
    "target": "marcel-bely",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "marciele-copat",
    "weight": 1
   },
   {
@@ -3380,12 +3525,17 @@
   {
    "source": "garlig",
    "target": "marcus-pilleggi",
+   "weight": 3
+  },
+  {
+   "source": "garlig",
+   "target": "mariana-negreiros",
    "weight": 1
   },
   {
    "source": "garlig",
    "target": "mariane-silvestre",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "garlig",
@@ -3419,8 +3569,18 @@
   },
   {
    "source": "garlig",
+   "target": "midori-shibutani",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
    "target": "murilo-mafra",
    "weight": 5
+  },
+  {
+   "source": "garlig",
+   "target": "nataly-de-siqueira",
+   "weight": 1
   },
   {
    "source": "garlig",
@@ -3474,6 +3634,11 @@
   },
   {
    "source": "garlig",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
    "target": "pedro-luz",
    "weight": 1
   },
@@ -3495,6 +3660,11 @@
   {
    "source": "garlig",
    "target": "rafael-marques",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "rafael-pavarotti",
    "weight": 1
   },
   {
@@ -3584,8 +3754,18 @@
   },
   {
    "source": "garlig",
+   "target": "silvana-heck-pauli",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
    "target": "silvia-boriani",
    "weight": 2
+  },
+  {
+   "source": "garlig",
+   "target": "stefane-correa",
+   "weight": 1
   },
   {
    "source": "garlig",
@@ -3600,6 +3780,11 @@
   {
    "source": "garlig",
    "target": "tiago-lopo",
+   "weight": 1
+  },
+  {
+   "source": "garlig",
+   "target": "tiago-r-rossmann",
    "weight": 1
   },
   {
@@ -3630,7 +3815,7 @@
   {
    "source": "garlig",
    "target": "victor-kebbe",
-   "weight": 1
+   "weight": 3
   },
   {
    "source": "garlig",
@@ -3674,177 +3859,32 @@
   },
   {
    "source": "georgiabueno",
-   "target": "giovanni-girardi",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "guilherme-kurten",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
    "target": "hpizaia",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "georgiabueno",
-   "target": "huemerson-leal",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "humorvitreo",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "igor-moura",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "georgiabueno",
-   "target": "victor-kebbe",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "georgiabueno",
    "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "giovanni-girardi",
+   "target": "hpizaia",
    "weight": 1
   },
   {
    "source": "giovanni-girardi",
-   "target": "guilherme-kurten",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "giovanni-girardi",
-   "target": "huemerson-leal",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "humorvitreo",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "igor-moura",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "giovanni-girardi",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -3874,6 +3914,21 @@
   },
   {
    "source": "glauco-teixeira",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-fernandes-hass",
+   "target": "hpizaia",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-fernandes-hass",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "guilherme-fernandes-hass",
    "target": "zehfernandes",
    "weight": 1
   },
@@ -3935,32 +3990,7 @@
   {
    "source": "guilherme-kurten",
    "target": "hpizaia",
-   "weight": 6
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "huemerson-leal",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "humorvitreo",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "igor-moura",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "jairo-souza",
-   "weight": 1
+   "weight": 7
   },
   {
    "source": "guilherme-kurten",
@@ -3969,32 +3999,7 @@
   },
   {
    "source": "guilherme-kurten",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
    "target": "karina-floriani",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "mariana-negreiros",
    "weight": 1
   },
   {
@@ -4024,13 +4029,8 @@
   },
   {
    "source": "guilherme-kurten",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
    "target": "raphainoue",
-   "weight": 3
+   "weight": 4
   },
   {
    "source": "guilherme-kurten",
@@ -4044,23 +4044,8 @@
   },
   {
    "source": "guilherme-kurten",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
-   "target": "victor-kebbe",
-   "weight": 1
-  },
-  {
-   "source": "guilherme-kurten",
    "target": "zehfernandes",
-   "weight": 8
+   "weight": 9
   },
   {
    "source": "guilherme-nagueva",
@@ -4179,13 +4164,28 @@
   },
   {
    "source": "hpizaia",
+   "target": "huemerson-leal",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
    "target": "hugo-moura-hulle",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "humorvitreo",
    "weight": 1
   },
   {
    "source": "hpizaia",
    "target": "iara-cavalcanti-reis",
    "weight": 2
+  },
+  {
+   "source": "hpizaia",
+   "target": "igor-moura",
+   "weight": 1
   },
   {
    "source": "hpizaia",
@@ -4205,16 +4205,26 @@
   {
    "source": "hpizaia",
    "target": "ivan-mizanzuk",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "hpizaia",
    "target": "jairo-souza",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "hpizaia",
    "target": "janaina-tazoniero",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "jessica-elaine-pereira-de-aquino",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "jessica-v-silva",
    "weight": 1
   },
   {
@@ -4255,7 +4265,7 @@
   {
    "source": "hpizaia",
    "target": "julio-teodoro",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "hpizaia",
@@ -4284,6 +4294,11 @@
   },
   {
    "source": "hpizaia",
+   "target": "leonardo-ramos",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
    "target": "leonardo-sandim",
    "weight": 1
   },
@@ -4294,13 +4309,28 @@
   },
   {
    "source": "hpizaia",
+   "target": "leticia-cotrim-anguito",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
    "target": "leticia-turola",
    "weight": 1
   },
   {
    "source": "hpizaia",
    "target": "liber-paz",
-   "weight": 2
+   "weight": 3
+  },
+  {
+   "source": "hpizaia",
+   "target": "lilian-sayuri-fonseca",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "livia-weyl",
+   "weight": 1
   },
   {
    "source": "hpizaia",
@@ -4330,7 +4360,7 @@
   {
    "source": "hpizaia",
    "target": "luis-gustavo-p-costenaro",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "hpizaia",
@@ -4354,7 +4384,22 @@
   },
   {
    "source": "hpizaia",
+   "target": "maikel-morais",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "manuela-gortz",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
    "target": "marcel-bely",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "marciele-copat",
    "weight": 1
   },
   {
@@ -4369,8 +4414,18 @@
   },
   {
    "source": "hpizaia",
-   "target": "mariane-silvestre",
+   "target": "marcus-pilleggi",
    "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "mariana-negreiros",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "mariane-silvestre",
+   "weight": 2
   },
   {
    "source": "hpizaia",
@@ -4399,8 +4454,18 @@
   },
   {
    "source": "hpizaia",
+   "target": "midori-shibutani",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
    "target": "murilo-mafra",
    "weight": 4
+  },
+  {
+   "source": "hpizaia",
+   "target": "nataly-de-siqueira",
+   "weight": 1
   },
   {
    "source": "hpizaia",
@@ -4449,6 +4514,11 @@
   },
   {
    "source": "hpizaia",
+   "target": "pedro-lima-dagua",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
    "target": "pedro-luz",
    "weight": 1
   },
@@ -4475,6 +4545,11 @@
   {
    "source": "hpizaia",
    "target": "rafael-marques",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "rafael-pavarotti",
    "weight": 1
   },
   {
@@ -4559,8 +4634,18 @@
   },
   {
    "source": "hpizaia",
+   "target": "silvana-heck-pauli",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
    "target": "silvia-boriani",
    "weight": 2
+  },
+  {
+   "source": "hpizaia",
+   "target": "stefane-correa",
+   "weight": 1
   },
   {
    "source": "hpizaia",
@@ -4575,6 +4660,11 @@
   {
    "source": "hpizaia",
    "target": "tiago-lopo",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "tiago-r-rossmann",
    "weight": 1
   },
   {
@@ -4600,6 +4690,11 @@
   {
    "source": "hpizaia",
    "target": "varlei-jose-janei",
+   "weight": 1
+  },
+  {
+   "source": "hpizaia",
+   "target": "victor-kebbe",
    "weight": 1
   },
   {
@@ -4649,62 +4744,7 @@
   },
   {
    "source": "huemerson-leal",
-   "target": "humorvitreo",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "igor-moura",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "huemerson-leal",
-   "target": "stefane-correa",
+   "target": "raphainoue",
    "weight": 1
   },
   {
@@ -4714,7 +4754,7 @@
   },
   {
    "source": "huemerson-leal",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -4724,67 +4764,12 @@
   },
   {
    "source": "humorvitreo",
-   "target": "igor-moura",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "humorvitreo",
-   "target": "ivan-mizanzuk",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "humorvitreo",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -4814,57 +4799,12 @@
   },
   {
    "source": "igor-moura",
-   "target": "jairo-souza",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "igor-moura",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "igor-moura",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -4914,72 +4854,17 @@
   },
   {
    "source": "ivan-mizanzuk",
-   "target": "jairo-souza",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "julio-teodoro",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
    "target": "marcosbeccari",
    "weight": 2
   },
   {
    "source": "ivan-mizanzuk",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
    "target": "raphainoue",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "tiago-r-rossmann",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "ivan-mizanzuk",
    "target": "vanessa-bornemann",
-   "weight": 1
-  },
-  {
-   "source": "ivan-mizanzuk",
-   "target": "victor-kebbe",
    "weight": 1
   },
   {
@@ -4990,7 +4875,7 @@
   {
    "source": "ivan-mizanzuk",
    "target": "zehfernandes",
-   "weight": 3
+   "weight": 4
   },
   {
    "source": "jairo-souza",
@@ -4999,58 +4884,13 @@
   },
   {
    "source": "jairo-souza",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
    "target": "raphainoue",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "jairo-souza",
-   "target": "victor-kebbe",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "jairo-souza",
    "target": "zehfernandes",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "janaina-tazoniero",
@@ -5060,6 +4900,26 @@
   {
    "source": "jande-farias",
    "target": "renato-faccini",
+   "weight": 1
+  },
+  {
+   "source": "jessica-elaine-pereira-de-aquino",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "jessica-elaine-pereira-de-aquino",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "jessica-v-silva",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "jessica-v-silva",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -5174,53 +5034,13 @@
   },
   {
    "source": "julio-teodoro",
-   "target": "liber-paz",
-   "weight": 1
-  },
-  {
-   "source": "julio-teodoro",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "julio-teodoro",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "julio-teodoro",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "julio-teodoro",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "julio-teodoro",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "julio-teodoro",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "julio-teodoro",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "julio-teodoro",
-   "target": "victor-kebbe",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "julio-teodoro",
    "target": "zehfernandes",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "karim-rashid",
@@ -5278,6 +5098,16 @@
    "weight": 1
   },
   {
+   "source": "leonardo-ramos",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "leonardo-ramos",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "leonardo-sandim",
    "target": "raphainoue",
    "weight": 1
@@ -5294,6 +5124,26 @@
   },
   {
    "source": "leoprado",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "leticia-cotrim-anguito",
+   "target": "lilian-sayuri-fonseca",
+   "weight": 1
+  },
+  {
+   "source": "leticia-cotrim-anguito",
+   "target": "midori-shibutani",
+   "weight": 1
+  },
+  {
+   "source": "leticia-cotrim-anguito",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "leticia-cotrim-anguito",
    "target": "zehfernandes",
    "weight": 1
   },
@@ -5319,58 +5169,18 @@
   },
   {
    "source": "liber-paz",
-   "target": "livia-weyl",
-   "weight": 1
-  },
-  {
-   "source": "liber-paz",
    "target": "lucas-garcia",
    "weight": 1
   },
   {
    "source": "liber-paz",
-   "target": "marcus-pilleggi",
-   "weight": 1
-  },
-  {
-   "source": "liber-paz",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "liber-paz",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "liber-paz",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "liber-paz",
    "target": "raphainoue",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "liber-paz",
    "target": "renato-faccini",
    "weight": 2
-  },
-  {
-   "source": "liber-paz",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "liber-paz",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "liber-paz",
-   "target": "victor-kebbe",
-   "weight": 1
   },
   {
    "source": "liber-paz",
@@ -5380,41 +5190,31 @@
   {
    "source": "liber-paz",
    "target": "zehfernandes",
+   "weight": 2
+  },
+  {
+   "source": "lilian-sayuri-fonseca",
+   "target": "midori-shibutani",
+   "weight": 1
+  },
+  {
+   "source": "lilian-sayuri-fonseca",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "lilian-sayuri-fonseca",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
    "source": "livia-weyl",
-   "target": "marcus-pilleggi",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "livia-weyl",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "livia-weyl",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "livia-weyl",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "livia-weyl",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "livia-weyl",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "livia-weyl",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -5494,8 +5294,13 @@
   },
   {
    "source": "luis-gustavo-p-costenaro",
-   "target": "zehfernandes",
+   "target": "raphainoue",
    "weight": 1
+  },
+  {
+   "source": "luis-gustavo-p-costenaro",
+   "target": "zehfernandes",
+   "weight": 2
   },
   {
    "source": "luiz-postal",
@@ -5523,11 +5328,46 @@
    "weight": 1
   },
   {
+   "source": "maikel-morais",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "maikel-morais",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
+   "source": "manuela-gortz",
+   "target": "nataly-de-siqueira",
+   "weight": 1
+  },
+  {
+   "source": "manuela-gortz",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "manuela-gortz",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "marcel-bely",
    "target": "zehfernandes",
    "weight": 1
   },
   {
+   "source": "marciele-copat",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "marciele-copat",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "marcos-de-lima",
    "target": "raphainoue",
    "weight": 1
@@ -5549,27 +5389,7 @@
   },
   {
    "source": "marcus-pilleggi",
-   "target": "mariana-negreiros",
-   "weight": 1
-  },
-  {
-   "source": "marcus-pilleggi",
-   "target": "pedro-lima-dagua",
-   "weight": 1
-  },
-  {
-   "source": "marcus-pilleggi",
-   "target": "rafael-pavarotti",
-   "weight": 1
-  },
-  {
-   "source": "marcus-pilleggi",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "marcus-pilleggi",
-   "target": "tiago-r-rossmann",
+   "target": "raphainoue",
    "weight": 1
   },
   {
@@ -5580,16 +5400,16 @@
   {
    "source": "marcus-pilleggi",
    "target": "zehfernandes",
-   "weight": 1
-  },
-  {
-   "source": "mariana-negreiros",
-   "target": "pedro-lima-dagua",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "mariana-negreiros",
    "target": "rafael-pavarotti",
+   "weight": 1
+  },
+  {
+   "source": "mariana-negreiros",
+   "target": "raphainoue",
    "weight": 1
   },
   {
@@ -5599,23 +5419,18 @@
   },
   {
    "source": "mariana-negreiros",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "mariana-negreiros",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
    "source": "mariane-silvestre",
    "target": "raphainoue",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "mariane-silvestre",
    "target": "zehfernandes",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "marines-ribeiro",
@@ -5693,6 +5508,16 @@
    "weight": 1
   },
   {
+   "source": "midori-shibutani",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "midori-shibutani",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "murilo-mafra",
    "target": "raphainoue",
    "weight": 1
@@ -5706,6 +5531,16 @@
    "source": "murilo-mafra",
    "target": "zehfernandes",
    "weight": 5
+  },
+  {
+   "source": "nataly-de-siqueira",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "nataly-de-siqueira",
+   "target": "zehfernandes",
+   "weight": 1
   },
   {
    "source": "natan-schafer",
@@ -5824,22 +5659,12 @@
   },
   {
    "source": "pedro-lima-dagua",
-   "target": "rafael-pavarotti",
+   "target": "raphainoue",
    "weight": 1
   },
   {
    "source": "pedro-lima-dagua",
-   "target": "stefane-correa",
-   "weight": 1
-  },
-  {
-   "source": "pedro-lima-dagua",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "pedro-lima-dagua",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -5879,17 +5704,17 @@
   },
   {
    "source": "rafael-pavarotti",
+   "target": "raphainoue",
+   "weight": 1
+  },
+  {
+   "source": "rafael-pavarotti",
    "target": "stefane-correa",
    "weight": 1
   },
   {
    "source": "rafael-pavarotti",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "rafael-pavarotti",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -5949,7 +5774,22 @@
   },
   {
    "source": "raphainoue",
+   "target": "silvana-heck-pauli",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
    "target": "silvia-boriani",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "stefane-correa",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "tiago-r-rossmann",
    "weight": 1
   },
   {
@@ -5960,6 +5800,11 @@
   {
    "source": "raphainoue",
    "target": "vanessa-gomes",
+   "weight": 1
+  },
+  {
+   "source": "raphainoue",
+   "target": "victor-kebbe",
    "weight": 1
   },
   {
@@ -6038,18 +5883,18 @@
    "weight": 1
   },
   {
+   "source": "silvana-heck-pauli",
+   "target": "zehfernandes",
+   "weight": 1
+  },
+  {
    "source": "silvia-boriani",
    "target": "zehfernandes",
    "weight": 2
   },
   {
    "source": "stefane-correa",
-   "target": "tiago-r-rossmann",
-   "weight": 1
-  },
-  {
-   "source": "stefane-correa",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -6069,7 +5914,7 @@
   },
   {
    "source": "tiago-r-rossmann",
-   "target": "victor-kebbe",
+   "target": "zehfernandes",
    "weight": 1
   },
   {
@@ -6105,7 +5950,7 @@
   {
    "source": "victor-kebbe",
    "target": "zehfernandes",
-   "weight": 1
+   "weight": 2
   },
   {
    "source": "vitor-rosa",

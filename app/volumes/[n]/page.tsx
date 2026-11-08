@@ -90,7 +90,7 @@ export default async function Volume({ params }: { params: Promise<{ n: string }
     >
       <JsonLd data={jsonLd(v)} />
       {v.scans ? (
-        <SpreadViewer spreads={spreads} scans={v.scans} hires={existsSync(`public${v.scans}/p-01-2x.jpg`)} />
+        <SpreadViewer spreads={spreads} scans={v.scans} hires={existsSync(`public${v.scans}/p-01-2x.jpg`)} photos={v.photos} />
       ) : (
         <p className="empty">Estamos buscando o arquivo...</p>
       )}
