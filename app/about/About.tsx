@@ -18,7 +18,7 @@ const TIMELINE: [string, Event[]][] = [
   ]],
   ["2012", [
     { when: "mar", kind: "evento", text: "Edital nacional e campanha no Catarse para a N3.", href: "/2012/03/cliche-3-edital-aberto/" },
-    { when: "8 mai", kind: "palestra", text: "“Design Colaborativo” no IFSC." },
+    { when: "8 mai", kind: "palestra", text: "“Design Colaborativo” no IFSC.", href: "/talks/design-colaborativo/" },
     { when: "ago", kind: "revista", issue: "n3", text: "A partir das Cidades Invisíveis de Calvino.", href: "/volumes/n3/" },
     { when: "18 ago", kind: "premio", text: "Primeiro troféu: Wake Content Talent Show, no YouPix.", href: "/2013/01/feliz-2013/" },
     { when: "13 out", kind: "palestra", text: "Oficina de webdesign no R Curitiba.", href: "/2012/10/encontros-de-design-e-a-cliche/" },
@@ -28,22 +28,20 @@ const TIMELINE: [string, Event[]][] = [
   ]],
   ["2013", [
     { when: "mar", kind: "portal", text: "Mês recorde do portal: 27 artigos." },
-    { when: "mar", kind: "palestra", text: "“Design Colaborativo” na FAE." },
-    { when: "abr", kind: "palestra", text: "“Design Colaborativo” no ENEdesign." },
+    { when: "mar–abr", kind: "palestra", text: "“Design Colaborativo” na FAE e no ENEdesign.", href: "/talks/design-colaborativo/" },
     { when: "10 out", kind: "palestra", text: "“Insight vs. Metodologia” na PUC-PR.", href: "/2013/10/disseminando-conhecimentos-nos-eventos-de-design/" },
     { when: "nov", kind: "podcast", text: "Experiência Cliche: cinco entrevistas em cinco dias.", href: "/exp/design-e-genero-marines-ribeiro/" },
     { when: "15 nov", kind: "palestra", text: "Palestra e oficina no R Porto Alegre.", href: "/2013/10/disseminando-conhecimentos-nos-eventos-de-design/" },
   ]],
   ["2014", [
     { when: "jun", kind: "podcast", text: "O ClicheCast fica semanal.", href: "/2014/06/clichecast21-massimo-vignelli/" },
-    { when: "nov", kind: "palestra", text: "“Design, coisa de outro mundo” no R Bauru." },
+    { when: "nov", kind: "palestra", text: "“Design, coisa de outro mundo” no R Bauru.", href: "/talks/design-coisa-de-outro-mundo/" },
     { when: "dez", kind: "evento", text: "Abre o edital da N4.", href: "/2014/12/revista-cliche-n4-edital-aberto/" },
   ]],
   ["2015", [
     { when: "jul", kind: "podcast", text: "Gravação ao vivo no NSP.", href: "/2015/11/clichecast50-live-questoes-de-design/" },
     { when: "2º sem", kind: "revista", issue: "n4", text: "A última edição impressa.", href: "/volumes/n4/" },
     { when: "nov", kind: "portal", text: "Último artigo do portal.", href: "/2015/11/design-nao-vai-salvar-a-vida-de-ninguem/" },
-    { when: "14 dez", kind: "podcast", text: "Último episódio, o #56.", href: "/2015/12/clichecast56-gerente-de-projetos-uma-profissao-util/" },
   ]],
 ];
 
