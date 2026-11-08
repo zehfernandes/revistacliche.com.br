@@ -4,6 +4,7 @@ import peopleJson from "@/content/people.json";
 import aboutJson from "@/content/about.json";
 import volumesJson from "@/content/volumes.json";
 import volumeItemsJson from "@/content/volume-items.json";
+import talksJson from "@/content/talks.json";
 
 export type Section = { id: string; label: string; level: number };
 export type Item = {
@@ -56,3 +57,7 @@ export { formatDate } from "./format";
 // What the archive tables need: the body text stays on the server instead of being sent to the client.
 export type Row = Omit<Item, "html" | "sections" | "excerpt">;
 export const rows = (items: Item[]): Row[] => items.map(({ html, sections, excerpt, ...row }) => row);
+
+// The talks and workshops, curated in content/talks.json; slide images come from scripts/extract_talks.py.
+type Talk = { slug: string; title: string; kind: string; where: string | null; year: string; slides: number; post?: string };
+export const talks = talksJson.talks as Talk[];

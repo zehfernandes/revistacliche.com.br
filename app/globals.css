@@ -304,6 +304,8 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .volumes tbody tr:hover td { background: var(--tint); }
 .volumes td.title { font-size: 22px; font-weight: 600; }
 .volumes .cover { display: grid; place-items: center; width: 120px; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 2px; background: var(--soft); color: var(--muted); font-size: 24px; font-weight: 600; box-shadow: 0 1px 2px rgb(0 0 0 / 0.08), 0 6px 16px -4px rgb(0 0 0 / 0.22); }
+.talks .cover { aspect-ratio: 4 / 3; }
+.talks .kind { display: block; margin-top: 2px; font-size: 13px; font-weight: 400; }
 
 .spreads {
   display: flex;
@@ -318,6 +320,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .spread { display: flex; flex: none; height: 100%; }
 .page { height: 100%; aspect-ratio: 210 / 280; background: var(--paper); box-shadow: 0 1px 0 var(--line), 0 10px 30px rgb(0 0 0 / 0.06); color: #9a9284; display: grid; place-items: end center; padding: 20px; font-variant-numeric: tabular-nums; }
 .page.scan { aspect-ratio: auto 1 / 1; width: auto; padding: 0; object-fit: contain; }
+.slides .page.scan { aspect-ratio: auto 4 / 3; }
 .spread:last-child { margin-right: var(--gutter); }
 
 /* scan look: muted ink, paper grain, scanner-lid falloff, slight tilt */
@@ -363,6 +366,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   .spread { height: auto; justify-content: center; scroll-margin-top: calc(var(--header) + 16px); }
   .spread:last-child { margin-right: 0; }
   .spread .page { width: 50%; height: auto; }
+  .slides .spread .page { width: 100%; }
   /* the scan look (filter, multiply-blended SVG grain) is repainted for every new tile: too slow on phones */
   .page.scan { filter: none; }
   .spread::after { content: none; }

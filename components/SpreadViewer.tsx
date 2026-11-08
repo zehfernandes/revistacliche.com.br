@@ -3,7 +3,8 @@
 import { useEffect, useRef } from "react";
 
 // Two pages per spread, free horizontal scroll, #n in the URL tracks the visible spread.
-export function SpreadViewer({ spreads, scans, hires }: { spreads: number[][]; scans?: string; hires?: boolean }) {
+// slides: one 4:3 talk slide per spread, full width when stacked on phones.
+export function SpreadViewer({ spreads, scans, hires, slides }: { spreads: number[][]; scans?: string; hires?: boolean; slides?: boolean }) {
   const track = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -37,7 +38,7 @@ export function SpreadViewer({ spreads, scans, hires }: { spreads: number[][]; s
   }, []);
 
   return (
-    <div className="spreads" ref={track}>
+    <div className={slides ? "spreads slides" : "spreads"} ref={track}>
       {spreads.map((pages, i) => (
         <section className="spread" key={i} id={String(i + 1)} data-n={i + 1}>
           {pages.map((p) => {
@@ -50,7 +51,7 @@ export function SpreadViewer({ spreads, scans, hires }: { spreads: number[][]; s
                 // pages are square, as wide as the .spreads track is tall (globals.css)
                 // -sm (600px) is what phones pick for the stacked spreads, half the screen wide
                 srcSet={`${f}-sm.jpg 600w, ${f}.jpg 1400w${hires ? `, ${f}-2x.jpg 2800w` : ""}`}
-                sizes="(max-width: 760px) 50vw, calc(100vh - 158px)"
+                sizes={slides ? "(max-width: 760px) 100vw, calc((100vh - 158px) * 4 / 3)" : "(max-width: 760px) 50vw, calc(100vh - 158px)"}
                 alt={`p. ${p}`}
                 loading={i < 3 ? "eager" : "lazy"}
                 decoding="async"
