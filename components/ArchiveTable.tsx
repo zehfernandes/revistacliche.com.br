@@ -84,6 +84,7 @@ export function ArchiveTable({ kind, items, label }: { kind: keyof typeof COLUMN
   const [active, setActive] = useState<Row | null>(null);
   const preview = useRef<HTMLImageElement>(null);
   const pointer = useRef({ x: 0, y: 0 });
+  const body = useRef<HTMLTableSectionElement>(null);
 
   useEffect(() => {
     setFilter(new URLSearchParams(location.search).get("filter"));
@@ -106,6 +107,23 @@ export function ArchiveTable({ kind, items, label }: { kind: keyof typeof COLUMN
     return () => window.removeEventListener("scroll", onScroll);
   }, [rows]);
 
+  // Thumbs load two screens ahead (native lazy's margin is too small in Safari), so they're
+  // in place before they scroll in. Thumb and hover preview share a URL: hover hits the cache.
+  useEffect(() => {
+    const io = new IntersectionObserver(
+      (entries) =>
+        entries.forEach((e) => {
+          if (!e.isIntersecting) return;
+          const img = e.target as HTMLImageElement;
+          img.src = img.dataset.src!;
+          io.unobserve(img);
+        }),
+      { rootMargin: "200% 0px" },
+    );
+    body.current?.querySelectorAll<HTMLImageElement>("img[data-src]:not([src])").forEach((img) => io.observe(img));
+    return () => io.disconnect();
+  }, [rows]);
+
   // Stable so memoized rows don't re-render when the hovered row changes.
   const applyFilter = useCallback((v: string | null) => {
     setFilter(v);
@@ -117,7 +135,12 @@ export function ArchiveTable({ kind, items, label }: { kind: keyof typeof COLUMN
 
   function move(e: React.PointerEvent) {
     pointer.current = { x: e.clientX, y: e.clientY };
-    preview.current?.style.setProperty("translate", `${e.clientX + 24}px ${e.clientY - 80}px`);
+    const el = preview.current;
+    if (!el) return;
+    // keep the preview on screen: flip left near the right edge, stop at the bottom
+    const x = e.clientX + 24 + el.offsetWidth > innerWidth ? e.clientX - 24 - el.offsetWidth : e.clientX + 24;
+    const y = Math.max(16, Math.min(e.clientY - 80, innerHeight - el.offsetHeight - 16));
+    el.style.setProperty("translate", `${x}px ${y}px`);
   }
 
   return (
@@ -146,7 +169,7 @@ export function ArchiveTable({ kind, items, label }: { kind: keyof typeof COLUMN
             ))}
           </tr>
         </thead>
-        <tbody>
+        <tbody ref={body}>
           {rows.map((it, i) => (
             <ArchiveRow key={it.id} it={it} index={i} active={active === it} columns={columns} onEnter={setActive} filter={applyFilter} />
           ))}
@@ -175,7 +198,7 @@ const ArchiveRow = memo(function ArchiveRow({
 }) {
   return (
     <tr data-index={index} data-active={active || undefined} onPointerEnter={() => onEnter(it)}>
-      <td className="thumb">{it.cover && <img src={it.cover} alt="" loading="lazy" />}</td>
+      <td className="thumb">{it.cover && <img data-src={it.cover} alt="" decoding="async" />}</td>
       {columns.map((c) => (
         <td key={c.key} className={c.className}>
           {c.cell ? c.cell(it, filter) : c.value(it)}

@@ -80,11 +80,19 @@ function prepare(it: Item) {
   return html;
 }
 
-function related(it: Item, pool: Item[]) {
-  const others = pool.filter((o) => o.id !== it.id);
-  const tags = it.series.length ? it.series : it.filtro;
-  const same = others.filter((o) => [...o.series, ...o.filtro].some((t) => tags.includes(t)));
-  return [...same, ...others.filter((o) => !same.includes(o))].slice(0, 3);
+// Shared series/filtro first, then closest in time, at most one per author so it doesn't read as "more by X".
+// Pools with too few authors (podcasts) fill the rest without the cap.
+function related(it: Item, pool: Item[], skip: (Item | undefined)[]) {
+  const tags = [...it.series, ...it.filtro];
+  const t = Date.parse(it.date);
+  const ranked = pool
+    .filter((o) => o.id !== it.id && !skip.includes(o))
+    .map((o) => ({ o, s: [...o.series, ...o.filtro].filter((x) => tags.includes(x)).length, d: Math.abs(Date.parse(o.date) - t) }))
+    .sort((a, b) => b.s - a.s || a.d - b.d)
+    .map((x) => x.o);
+  const authors = new Set<string>();
+  const picks = ranked.filter((o) => !authors.has(o.author.name) && authors.add(o.author.name)).slice(0, 3);
+  return [...picks, ...ranked.filter((o) => !picks.includes(o))].slice(0, 3);
 }
 
 export default async function Entry({ params }: { params: Promise<Params> }) {
@@ -184,7 +192,7 @@ export default async function Entry({ params }: { params: Promise<Params> }) {
         <footer className="entry-foot" data-pagefind-ignore>
           <h2>Leia também</h2>
           <ul className="cards">
-            {related(it, pool).map((o) => (
+            {related(it, pool, [prev, next]).map((o) => (
               <li key={o.id}>
                 <Link href={o.path}>
                   <span className="card-img">{o.cover && <img src={o.cover} alt="" loading="lazy" />}</span>
